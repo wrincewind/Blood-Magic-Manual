@@ -23,10 +23,10 @@
     {
       "type": "crafting_arcaneash",
 	  "heading": "Divination Sigil",
-      "input": "bloodmagic:soulgempetty",
-	  "slate": "minecraft:iron_sword",
-	  "output": "bloodmagic:soulsword",
-	  "text": "This sword will serve you well."
+      "input": "minecraft:redstone",
+	  "slate": "bloodmagic:blankslate",
+	  "output": "bloodmagic:divinationsigil",
+	  "text": " $(o)Peer into the soul."
     }
   ]
 }

@@ -22,14 +22,14 @@
     {
       "type": "item",
       "item": "#input",
-      "x": 40,
-      "y": 36
+      "x": 31,
+      "y": 26
     },
 	{
       "type": "item",
       "item": "#slate",
-      "x": 60,
-      "y": 16
+      "x": 66,
+      "y": 14
     },
     {
       "type": "item",
