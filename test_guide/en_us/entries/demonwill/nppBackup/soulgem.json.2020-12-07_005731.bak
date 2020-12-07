@@ -1,0 +1,21 @@
+{
+  "name": "Tartaric Gems",
+  "icon": "bloodmagic:soulgemgreater",
+  "category": "demonwill",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Demon Will is a very useful resource, but the fragments you have been getting so far are decidedly lacking in power. What you need is a storage item; A $(item)Tartaric Gem$() seems just the thing."
+    },
+    {
+      "type": "crafting_soulforge",
+	  "heading": "test",
+      "input1": "minecraft:redstone",
+	  "input2": "minecraft:gold_ingot",
+	  "input3": "minecraft:glass",
+	  "input4": "minecraft:lapis_lazuli",
+	  "output": "bloodmagic:soulgempetty",
+	  "text": "texttest"
+    }
+  ]
+}

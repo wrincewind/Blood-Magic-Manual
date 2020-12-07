@@ -1,0 +1,15 @@
+{
+  "name": "Tartaric Gems",
+  "icon": "bloodmagic:soulgemgreater",
+  "category": "demonwill",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Demon Will is a very useful resource, but the fragments you have been getting so far are decidedly lacking in power. What you need is a storage item; A $(item)Tartaric Gem$() seems just the thing."
+    },
+    {
+      "type": "crafting_soulforge",
+      "recipe": "bloodmagic:soul_gem_petty"
+    }
+  ]
+}

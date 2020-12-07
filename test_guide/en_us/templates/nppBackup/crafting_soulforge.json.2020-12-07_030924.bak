@@ -1,0 +1,77 @@
+{
+  "components": [
+    {
+      "type": "header",
+      "text": "#heading",
+      "x": -1,
+      "y": -6
+    },
+    {
+      "type": "image",
+      "image": "bloodmagic:images/crafting/soulforge.png",
+	  
+      "x": 7,
+      "y": 2,
+      "u": 0,
+      "v": 0,
+      "texture_width": 128,
+      "texture_height": 256,
+      "width": 100,
+      "height": 62
+    },
+    {
+      "type": "item",
+      "item": "#input1",
+      "x": 21,
+      "y": 18
+    },
+    {
+      "type": "item",
+      "item": "#input2",
+      "x": 40,
+      "y": 18
+    },
+    {
+      "type": "item",
+      "item": "#input3",
+      "x": 21,
+      "y": 36
+    },
+    {
+      "type": "item",
+      "item": "#input4",
+      "x": 40,
+      "y": 36
+    },
+    {
+      "type": "item",
+      "item": "#output",
+      "link_recipe": true,
+      "x": 88,
+      "y": 26
+    },
+	{
+      "type": "item",
+      "item": "bloodmagic:soulforge",
+      "link_recipe": true,
+      "x": 88,
+      "y": 46
+    },
+    {
+      "type": "text",
+      "willdrain": "#willdrain",
+      "x": 70,
+	  "y": 26
+    },
+    {
+      "type": "text",
+      "willrequired": "#willrequired",
+      "y": 169
+    },
+    {
+      "type": "text",
+      "text": "#willrequired",
+      "y": 69
+    }
+  ]
+}

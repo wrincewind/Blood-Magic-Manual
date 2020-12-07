@@ -1,0 +1,9 @@
+{
+  "name": "guide.bloodmagic.name",
+  "subtitle": "A RATS GUIDE TO Alchemical Wizardry",
+  "landing_text": "test",
+  "version": 2,
+  "creative_tab": "bloodmagictab",
+  "model": "bloodmagic:book",
+  "show_progress": true
+}
