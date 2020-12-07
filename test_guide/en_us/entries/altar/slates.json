@@ -1,0 +1,17 @@
+{
+  "name": "Tiers of Slates",
+  "icon": "bloodmagic:blankslate",
+  "category": "altar",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The $(l:altar/bloodaltar)Blood Altar$(/l)'s main use is the production of $(item)Slates$(). Each tier of slate requires the previous tier and a more powerful altar than the last. $(li)$(item)Blank Slates$() can be created in a Tier 1 altar from $(item)Stone$() and 1,000 LP. $(li)$(item)Reinforced Slates$() can be created in a Tier 2 altar from a $(item)Blank Slate$() and 2,000 LP." 
+    },
+    {
+      "type": "text",
+      "text": "$(li)$(item)Imbued Slates$() can be created in a Tier 3 altar from a $(item)Reinforced Slate$() and 5,000 LP. $(li)$(item)Demonic Slates$() can be created in a Tier 4 altar from a $(item)Imbued Slate$() and 15,000 LP. $(li)$(item)Etherial Slates$() aren't currently implemented by default, but may be if you're playing in a modpack. Check JEI for details."
+    }
+  ]
+}
+
+
