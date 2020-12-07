@@ -2,6 +2,7 @@
   "name": "The Blood Altar",
   "icon": "bloodmagic:altar",
   "category": "altar",
+  "priority": "true",
   "pages": [
     {
       "type": "text",
