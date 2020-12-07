@@ -46,14 +46,12 @@
     {
       "type": "item",
       "item": "#output",
-      "link_recipe": true,
       "x": 88,
       "y": 26
     },
 	{
       "type": "item",
       "item": "bloodmagic:soulforge",
-      "link_recipe": true,
       "x": 88,
       "y": 46
     },

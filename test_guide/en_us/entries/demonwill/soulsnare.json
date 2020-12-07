@@ -2,10 +2,11 @@
   "name": "Your First Will",
   "icon": "bloodmagic:soulsnare",
   "category": "demonwill",
+  "priority": "true",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Soul Snare$() is a fun thing with a fun name."
+      "text": "The very first thing you will want to do is craft a $(item)Soul Snare$(). This is your gateway into $(6)Blood Magic$(), as Soul Snares allow you to gather your first $(l:demonwill/demonwill)$(item)Demon Will$(), which is a required ingredient for the $(l:altar/bloodaltar)Blood Altar$(/l), and will fuel your work within the $(l:demonwill/soulforge)Hellfire Forge$(/l)."
     },
     {
       "type": "crafting",
@@ -19,6 +20,13 @@
    	  "title": "Snare on Skeleton",
    	  "border": true,
    	  "text": "A skeleton with white particles after hit by a snare."
-   	}
+   	},
+    {
+      "type": "text",
+      "text": "Using the Snare is simple enough - craft a good quantity of them, find a hostile mob, and throw Snares at them until white particles appear. Kill them quickly and you should get a $(l:demonwill/demonwill)$(item)Demon Will$(). Before you ask, yes, the Looting enchantment will improve your odds. Once you've gathered a couple, you can get to work on crafting yourself a $(l:demonwill/sentientsword)$(item)Sentient Sword$() and a $(l:demonwill/soulgem)$(item)Tartaric Gem$() - these will make collecting $(l:demonwill/demonwill)$(item)Demon Will$() much easier."
+    }
   ]
 }
+
+
+
