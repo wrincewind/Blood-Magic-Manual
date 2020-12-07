@@ -21,7 +21,7 @@
     },
 	{
       "type": "text",
-      "text": "Much like the $(item)Sentient Pickaxe$(), the $(item)Sentient Axe$() is a noticable improvement over its Iron counterpart. Additionally, it gets a noticable buff in its damage output, making it a fearsome weapon for those who don't mind its unwieldy nature. If you can augment it with Destructive Will, then the damage output and length of cooldown will both be noticably buffed."
+      "text": "Much like the $(item)Sentient Pickaxe$(), the $(item)Sentient Axe$() is a noticable improvement over its Iron counterpart. Additionally, it gets a noticable buff in its damage output, making it a fearsome weapon for those who don't mind its unwieldy nature. If you can augment it with Destructive Will, then the damage per swing will be noticably buffed at the expense of attack speed. For those who favor speed, Vengeful will does the opposite."
     },
     {
       "type": "crafting_soulforge",
