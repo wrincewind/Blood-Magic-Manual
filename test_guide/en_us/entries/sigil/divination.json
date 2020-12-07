@@ -19,6 +19,14 @@
     {
       "type": "text",
       "text": "The Divination Sigil has two primary uses: $(br)$(li)When the player right-clicks in the air with the sigil, it will display the amount of LP that is in the owner's $(l:altar/soulnetwork)Soul Network.$(/l)$(li)When clicking on a $(l:altar/bloodaltar)Blood Altar$(/l), it will tell the player the altar's current Tier, the amount of LP stored in the altar, as well as its current max capacity. Having a $(item)Divination Sigil$() on hand can also be helpful for other block applications, but that will be covered later."
+    },
+    {
+      "type": "crafting_arcaneash",
+	  "heading": "Divination Sigil",
+      "input": "bloodmagic:soulgempetty",
+	  "slate": "minecraft:iron_sword",
+	  "output": "bloodmagic:soulsword",
+	  "text": "This sword will serve you well."
     }
   ]
 }
