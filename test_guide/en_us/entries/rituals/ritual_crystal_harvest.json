@@ -1,0 +1,31 @@
+{
+  "name": "Crack of the Fractured Crystal",
+  "icon": "bloodmagic:destructivecrystal",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Crack of the Fractured Crystal",
+      "multiblock":{
+        "pattern":[
+          ["_______", "_______", "___D___", "__D_D__", "___D___", "_______", "_______"],
+          ["ED___DE", "D_____D", "__A_A__", "___0___", "__A_A__", "D_____D", "ED___DE"],
+          ["E_FFF_E", "___F___", "F__F__F", "FFF_FFF", "F__F__F", "___F___", "E_FFF_E"]
+        ],
+        "mapping":{
+          "0": "bloodmagic:masterritualstone",
+          "A": "bloodmagic:airritualstone",
+          "F": "bloodmagic:fireritualstone",
+          "E": "bloodmagic:earthritualstone",
+          "D": "bloodmagic:duskritualstone"
+        },
+        "symetrical": true
+      },
+      "text": "Use a Ritual Diviner for easier contruction."
+    },
+    {
+      "type": "text",
+      "text": "Breaks Demon Will crystal clusters within its range, dropping the results on top of the crystals.$(br2)$(#aaaa00)Air Runes: 4$(br)$(#aa0000)Fire Runes: 20$(br)$(#00aa00)Earth Runes: 8$(br)$()Dusk Runes: 12$(br2)$()Total Runes: 44" 
+    }
+  ]
+}

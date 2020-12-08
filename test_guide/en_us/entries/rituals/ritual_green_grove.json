@@ -8,7 +8,11 @@
       "name": "Ritual of the Green Grove",
       "multiblock":{
         "pattern":[
-          ["EWE", "W0W", "EWE"]
+          [
+            "EWE",
+            "W0W",
+            "EWE"
+          ]
         ],
         "mapping":{
           "0": "bloodmagic:masterritualstone",
@@ -21,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "Grows crops within its area.$(br2)$(#0000ff)Water Runes: 4$()$(br)$(#00ff00)Earth Runes: 4$()$(br2)Total Runes: 8" 
+      "text": "Grows crops within its area.$(br2)$(#0000aa)Water Runes: 4$()$(br)$(#00aa00)Earth Runes: 4$()$(br2)Total Runes: 8" 
     },
     {
       "type": "text",

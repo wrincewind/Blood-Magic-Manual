@@ -8,7 +8,11 @@
       "name": "Serenade of the Nether",
       "multiblock":{
         "pattern":[
-          ["_F_", "F0F", "_F_"]
+          [
+            "_F_",
+            "F0F",
+            "_F_"
+          ]
         ],
         "mapping":{
           "0": "bloodmagic:masterritualstone",
@@ -20,7 +24,7 @@
     },
     {
       "type": "text",
-      "text": "Generates a source of lava from the master ritual stone.$(br2)$(#ff0000)Fire Runes: 4$()$(br2)Total Runes: 4" 
+      "text": "Generates a source of lava from the master ritual stone.$(br2)$(#aa0000)Fire Runes: 4$()$(br2)Total Runes: 4" 
     },
     {
       "type": "text",
