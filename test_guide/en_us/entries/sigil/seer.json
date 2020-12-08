@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "[WIP Notes]$(br2)More advanced form of Divination Sigil.  Shows more information when looking at a Blood Altar."
+      "text": "The $(item)Seer's Sigil$() is a more advanced form of the $(l:sigil/divination)Divination Sigil$().  Alongside showing the amount of LP in the bound player's $(l:altar/soulnetwork)Soul Network$(/l), it also shows more information when looking at a $(l:altar/bloodaltar)Blood Altar$(/l)."
     },
     {
       "type": "crafting_array",
@@ -14,6 +14,19 @@
       "slate": "bloodmagic:reinforcedslate",
       "output": "bloodmagic:seersigil",
       "text": "When seeing all is not enough"
+    },
+	{
+      "type": "text",
+      "text": "From top to bottom, we have: $(li)The current Tier of the $(l:altar/bloodaltar)Blood Altar$(/l). $(li)The amount of blood currently inside the Altar, and the current total capacity of the Altar. (This defaults to 10,000mb, but may be increased with Runes of Capacity and Runes of Augmented Capacity. $(li)The current crafting progress, if any. $(li)LP Consumption/Tick - how much LP the Altar will use per tick when crafting. $(li) Current LP Storage of any charging runes you may have."
+    },
+	{
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/seer_sigil_info.png"
+      ],
+      "title": "Seer's Sigil Display",
+      "border": true,
+      "text": "The Seer's Sigil's displays this HUD when you are looking at a blood Altar."
     }
   ]
 }
