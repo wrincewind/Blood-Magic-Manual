@@ -1,0 +1,30 @@
+{
+  "name": "Serenade of the Nether",
+  "icon": "minecraft:lava_bucket",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Serenade of the Nether",
+      "multiblock":{
+        "pattern":[
+          ["_F_", "F0F", "_F_"]
+        ],
+        "mapping":{
+          "0": "bloodmagic:masterritualstone",
+          "F": "bloodmagic:fireritualstone"
+        },
+        "symetrical": true
+      },
+      "text": "Use a Ritual Diviner for easier contruction."
+    },
+    {
+      "type": "text",
+      "text": "Generates a source of lava from the master ritual stone.$(br2)$(#ff0000)Fire Runes: 4$()$(br2)Total Runes: 4" 
+    },
+    {
+      "type": "text",
+      "text": "Will Augmentations:$(br2)(Raw) Decreases the LP cost of placing lava and allows lava to be placed insided of a linked container.$(br)(Corrosive) Entities within range that are immune to fire are damaged severely.$(br)(Destructive) Lava placement range is increased based on total Will.$(br)(Vengeful) Entities in this range are afflicted by Fire Fuse.$(br)(Steadfast) Players in this range have Fire Resist applied."
+    }
+  ]
+}

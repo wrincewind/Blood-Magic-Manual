@@ -1,0 +1,34 @@
+{
+  "name": "Ritual of Magnetism",
+  "icon": "minecraft:iron_ore",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Ritual of Magnetism",
+      "multiblock":{
+        "pattern":[
+          ["__F__", "_____", "F___F", "_____", "__F__"],
+          ["A_E_A", "_____", "E___E", "_____", "A_E_A"],
+          ["_____", "_E_E_", "__0__", "_E_E_", "_____"]
+        ],
+        "mapping":{
+          "0": "bloodmagic:masterritualstone",
+          "A": "bloodmagic:airritualstone",
+          "F": "bloodmagic:fireritualstone",
+          "E": "bloodmagic:earthritualstone"
+        },
+        "symetrical": true
+      },
+      "text": "Use a Ritual Diviner for easier contruction."
+    },
+    {
+      "type": "text",
+      "text": "Pulls up ores from the ground and puts them into its placement range.$(br2)$(#aaaa00)Air Runes: 4$(br)$(#aa0000)Fire Runes: 4$(br)$(#00aa00)Earth Runes: 8$(br2)$()Total Runes: 16" 
+    },
+    {
+      "type": "text",
+      "text": "[WIP Notes]$(br2)[Increase range by placing Iron, Gold, or Diamond Block under the Master Ritual Stone.]" 
+    }
+  ]
+}

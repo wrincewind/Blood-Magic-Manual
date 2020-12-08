@@ -1,0 +1,30 @@
+{
+  "name": "Ritual of the Full Spring",
+  "icon": "minecraft:water_bucket",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Ritual of the Full Spring",
+      "multiblock":{
+        "pattern":[
+          ["W_W", "_0_", "W_W"]
+        ],
+        "mapping":{
+          "0": "bloodmagic:masterritualstone",
+          "W": "bloodmagic:waterritualstone"
+        },
+        "symetrical": true
+      },
+      "text": "Use a Ritual Diviner for easier contruction."
+    },
+    {
+      "type": "text",
+      "text": "Generates a source of water from the master ritual stone.$(br2)$(#0000ff)Water Runes: 4$()$(br2)Total Runes: 4" 
+    },
+    {
+      "type": "text",
+      "text": "Will Augmentations:$(br2)(Raw) The tank that the ritual will place water into."
+    }
+  ]
+}

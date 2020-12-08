@@ -1,0 +1,31 @@
+{
+  "name": "Ritual of the Green Grove",
+  "icon": "minecraft:bone_meal",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Ritual of the Green Grove",
+      "multiblock":{
+        "pattern":[
+          ["EWE", "W0W", "EWE"]
+        ],
+        "mapping":{
+          "0": "bloodmagic:masterritualstone",
+          "E": "bloodmagic:earthritualstone",
+          "W": "bloodmagic:waterritualstone"
+        },
+        "symetrical": true
+      },
+      "text": "Use a Ritual Diviner for easier contruction."
+    },
+    {
+      "type": "text",
+      "text": "Grows crops within its area.$(br2)$(#0000ff)Water Runes: 4$()$(br)$(#00ff00)Earth Runes: 4$()$(br2)Total Runes: 8" 
+    },
+    {
+      "type": "text",
+      "text": "Will Augmentations:$(br2)(Raw) Increases the speed of all of the ritual operations depending on the total Will in the Aura.$(br)(Corrosive) Entities within range are attacked by nearby plants, leeching away their life.$(br)(Destructive) Growing range is increased based on total Will.$(br)(Vengeful) Increases the rate that a growth tick is successful.$(br)(Steadfast) Seeds are replanted and blocks are hydrated within the Hydration range."
+    }
+  ]
+}
