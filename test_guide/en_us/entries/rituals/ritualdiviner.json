@@ -1,0 +1,23 @@
+{
+  "name": "The Ritual Diviner",
+  "icon": "bloodmagic:ritualdiviner",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Crafting rituals is an intricate business; Even if you have the correct $(item)Inscription Tools$(), you can't just slap runic inscriptions down any old how and expect things to happen. Luckily, the $(item)Ritual Diviner$() is here to help." 
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:ritual_diviner_0"
+    },
+	{
+	  "type": "text",
+	  "text": "The base Ritual Diviner requires one of each $(item)Elemental Inscription Tool$() for its construction, and thus a tier 3 $(l:altar/bloodaltar)Blood Altar$(/l). The four base Elemental Inscription Tools can be crafted in your Altar for 1,000 LP each: $(li)Air: a $(item)Ghast Tear$(). $(li)Fire: some $(item)Magma Cream$(). $(li)Water: a $(item)Block of Lapis Lazuli$(). $(li)Earth: a $(item)Block of Obsidian$()."
+	},
+	{
+	  "type": "text",
+	  "text": "There is also an augmented version of the Ritual Diviner, for creating more powerful rituals. For this you will require a tier four Altar, and two $(item)Inscription Tool: Dusk$()s. These can be crafted in your altar with a $(item)Block of Coal$() and 2,000LP."
+	}
+  ]
+}
