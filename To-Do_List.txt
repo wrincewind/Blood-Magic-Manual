@@ -1,10 +1,6 @@
 Sigils:
-* magnetism - Sigil of Magnetism - Text
+* magnetism - Sigil of Magnetism - Text.  NYI.
 * ice - Sigil of the Frozen Lake - Text.  NYI?
-* seer - Seer's Sigil - Text
-* void - Void Sigil - Text
-* air - Air Sigil - Text
-* bloodlight - Sigil of the Blood Lamp - Text
 
 Rituals:
 Serenade of the Nether
@@ -22,6 +18,7 @@ Ritual of Regeneration
 Ritual of Living Evolution
 Sound of the Cleansing Soul
 + Ritual Tinkerer, and possibly the other tools.
+- Ritual Tinkerer, Activation Crystals, Lava Crystals, and Tome of Peritia all implemented. Any other tools i'm missing?
 
 Not Categorized Yet:
 Ritual of Binding/Living Armor
