@@ -1,0 +1,18 @@
+{
+  "name": "Sigil of Magnetism",
+  "icon": "bloodmagic:sigilofmagnetism",
+  "category": "sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "[WIP Notes]$(br)[Not Yet Implemented]$(br2)Attacts items in the world towards the holder for pickup."
+    },
+    {
+      "type": "crafting_array",
+      "heading": "Sigil of Magnetism",
+      "input": "bloodmagic:reagentmagnetism",
+      "slate": "bloodmagic:infusedslate",
+      "output": "bloodmagic:sigilofmagnetism"
+    }
+  ]
+}

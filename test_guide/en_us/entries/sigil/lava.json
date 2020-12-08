@@ -16,6 +16,14 @@
    	  "title": "Lava Sigil Array",
    	  "border": true,
    	  "text": "The Lava Sigil, next to its crafting array, plus its primary use."
-   	}
+   	},
+    {
+      "type": "crafting_array",
+      "heading": "Lava Sigil",
+      "input": "bloodmagic:reagentlava",
+      "slate": "bloodmagic:blankslate",
+      "output": "bloodmagic:lavasigil",
+      "text": " $(o)HOT! DO NOT EAT"
+    }
   ]
 }

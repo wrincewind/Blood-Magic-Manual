@@ -1,0 +1,19 @@
+{
+  "name": "Seer's Sigil",
+  "icon": "bloodmagic:seersigil",
+  "category": "sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "[WIP Notes]$(br2)More advanced form of Divination Sigil.  Shows more information when looking at a Blood Altar."
+    },
+    {
+      "type": "crafting_array",
+      "heading": "Seer's Sigil",
+      "input": "bloodmagic:reagentsight",
+      "slate": "bloodmagic:reinforcedslate",
+      "output": "bloodmagic:seersigil",
+      "text": "When seeing all is not enough"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sigil of the Blood Lamp",
+  "icon": "bloodmagic:bloodlightsigil",
+  "category": "sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "[WIP Notes]$(br2)Creates lightsources"
+    },
+    {
+      "type": "crafting_array",
+      "heading": "Sigil of the Blood Lamp",
+      "input": "bloodmagic:reagentbloodlight",
+      "slate": "bloodmagic:infusedslate",
+      "output": "bloodmagic:bloodlightsigil",
+      "text": "I see a light!"
+    }
+  ]
+}

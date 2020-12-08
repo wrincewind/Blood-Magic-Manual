@@ -16,6 +16,13 @@
    	  "title": "Fast Miner Sigil Array",
    	  "border": true,
    	  "text": "The Sigil of the Fast Miner's array, plus its primary uses."
-   	}
+   	},
+    {
+      "type": "crafting_array",
+      "heading": "Sigil of the Fast Miner",
+      "input": "bloodmagic:reagentfastminer",
+      "slate": "bloodmagic:reinforcedslate",
+      "output": "bloodmagic:miningsigil"
+    }
   ]
 }
