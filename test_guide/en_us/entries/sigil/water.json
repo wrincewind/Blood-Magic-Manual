@@ -16,6 +16,14 @@
    	  "title": "Water Sigil Array",
    	  "border": true,
    	  "text": "The Water Sigil, next to its crafting array, plus its primary use."
-   	}
+   	},
+    {
+      "type": "crafting_array",
+      "heading": "Water Sigil",
+      "input": "bloodmagic:reagentwater",
+      "slate": "bloodmagic:blankslate",
+      "output": "bloodmagic:watersigil",
+      "text": " $(o)Infinite water, anyone?"
+    }
   ]
 }

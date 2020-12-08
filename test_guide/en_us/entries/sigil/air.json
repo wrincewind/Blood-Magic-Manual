@@ -1,0 +1,19 @@
+{
+  "name": "Air Sigil",
+  "icon": "bloodmagic:airsigil",
+  "category": "sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "[WIP Notes]$(br2)Throws user forward.  50 LP per use."
+    },
+    {
+      "type": "crafting_array",
+      "heading": "Air Sigil",
+      "input": "bloodmagic:reagentair",
+      "slate": "bloodmagic:reinforcedslate",
+      "output": "bloodmagic:airsigil",
+      "text": "I feel lighter already..."
+    }
+  ]
+}

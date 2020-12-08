@@ -1,0 +1,30 @@
+Sigils:
+* magnetism - Sigil of Magnetism - Text
+* ice - Sigil of the Frozen Lake - Text.  NYI?
+* seer - Seer's Sigil - Text
+* void - Void Sigil - Text
+* air - Air Sigil - Text
+* bloodlight - Sigil of the Blood Lamp - Text
+
+Rituals:
+Serenade of the Nether
+Ritual of the Full Spring
+Ritual of the Green Grove
+Ritual of the Shepherd
+Ritual of the Crusher
+Ritual of Magnetism
+Resonance of the Faceted Crystal
+Reap of the Harvest Moon
+ritual.bloodmagic.ellipseRitual - Ritual of the Ellipsoid?
+Ritual of the Feathered Knife
+Crack of the Fractured Crystal
+Ritual of Regeneration
+Ritual of Living Evolution
+Sound of the Cleansing Soul
++ Ritual Tinkerer, and possibly the other tools.
+
+Not Categorized Yet:
+Ritual of Binding/Living Armor
+Alchemy Table
+Alchemical Reaction Chamber
+Demon Will Crystals

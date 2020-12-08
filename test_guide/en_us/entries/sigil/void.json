@@ -1,0 +1,19 @@
+{
+  "name": "Void Sigil",
+  "icon": "bloodmagic:voidsigil",
+  "category": "sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "[WIP Notes]$(br2)Removes fluids from the world."
+    },
+    {
+      "type": "crafting_array",
+      "heading": "Void Sigil",
+      "input": "bloodmagic:reagentvoid",
+      "slate": "bloodmagic:reinforcedslate",
+      "output": "bloodmagic:voidsigil",
+      "text": "Better than a Swiffer\u00AE!"
+    }
+  ]
+}
