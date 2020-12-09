@@ -37,6 +37,19 @@
     {
       "type": "text",
       "text": "Creates a hollow spheroid around the ritual using the blocks in the attached chest.$(br2)$(#0000aa)Water Runes: 8$(br)$(#aaaa00)Air Runes: 8$(br)$(#aa0000)Fire Runes: 8$(br)$(#00aa00)Earth Runes: 8$(br)$()Dusk Runes: 4$(br2)$()Total Runes: 36" 
-    }
+    },
+	{
+	  "type": "spotlight",
+      "item": "bloodmagic:ritualtinkerer",
+      "title": "Range",
+      "text": "(Chest) The location of the inventory that the ritual will grab blocks from to place in the world. $(br) $(li)Maximum Volume: 1 $(li)Horizontal Radius: 3 $(li)Vertical Radius: 3"
+	},
+	{
+	  "type": "spotlight",
+      "item": "bloodmagic:ritualtinkerer",
+      "title": "Range",
+      "text": "(Placement) The range that the ritual will place its blocks in. Note that the Spheroid is centered on the ritual - if one side is shorter than the side opposite, the spheroid will be truncated. $(br) $(li)Maximum Volume: Full Range. $(li)Horizontal Radius: 32 $(li)Vertical Radius: 32"
+	}
+	
   ]
 }

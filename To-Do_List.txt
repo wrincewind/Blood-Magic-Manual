@@ -2,26 +2,36 @@ Sigils:
 * magnetism - Sigil of Magnetism - Text.  NYI.
 * ice - Sigil of the Frozen Lake - Text.  NYI?
 
-Rituals:
-Serenade of the Nether
-Ritual of the Full Spring
-Ritual of the Green Grove
-Ritual of the Shepherd
-Ritual of the Crusher
-Ritual of Magnetism
-Resonance of the Faceted Crystal
-Reap of the Harvest Moon
-ritual.bloodmagic.ellipseRitual - Ritual of the Ellipsoid?
-Ritual of the Feathered Knife
-Crack of the Fractured Crystal
-Ritual of Regeneration
-Ritual of Living Evolution
-Sound of the Cleansing Soul
-+ Ritual Tinkerer, and possibly the other tools.
+Tinkering notes for the following Rituals:
 - Ritual Tinkerer, Activation Crystals, Lava Crystals, and Tome of Peritia all implemented. Any other tools i'm missing?
 
 Not Categorized Yet:
 Ritual of Binding/Living Armor
 Alchemy Table
 Alchemical Reaction Chamber
-Demon Will Crystals
+	Sanguine Reverter
+	Primitive Resonator
+Demon Will Crystals -
+	Demon Crucible / Advanced Will Handling / Demonic Aura
+	[note: link/explain these in the cracking ritual]
+	
+Currently Implemented Living Armour Upgrades:
+- Pin Cushion
+- Soft Fall
+- Tough
+- Strong Legs (Now can be temporarily deactivated when jumping by sneaking)
+- Healthy
+- Experienced 
+-Charging Strike
+- Tough Palms
+- Quick Feet
+- Poison Resistance
+- Gift of Ignis
+- Dwarven Might
+- Body Builder
+
+Possibly show recipes for sigils / reagents?
+
+Blank/Master Ritual Stones
+
+Sentient sword / sentient tools - augmented with demonic will? still don't get that myself. 
