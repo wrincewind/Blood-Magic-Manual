@@ -1,7 +1,7 @@
 {
   "name": "Charging Rune",
   "icon": "bloodmagic:chargingrune",
-  "category": "altar",
+  "category": "blood_rune",
   "pages": [
     {
       "type": "text",

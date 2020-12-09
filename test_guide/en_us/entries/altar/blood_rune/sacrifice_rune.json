@@ -1,7 +1,7 @@
 {
   "name": "Rune of Sacrifice",
   "icon": "bloodmagic:sacrificerune",
-  "category": "altar",
+  "category": "blood_rune",
   "pages": [
     {
       "type": "text",
