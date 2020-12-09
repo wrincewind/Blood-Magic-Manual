@@ -1,0 +1,36 @@
+{
+  "name": "Resonance of the Faceted Crystal",
+  "icon": "bloodmagic:vengefulcrystal",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Resonance of the Faceted Crystal",
+      "multiblock":{
+        "pattern":[
+          ["__D__", "_BFB_", "DA0ED", "_BWB_", "__D__"],
+          ["_D_D_", "D___D", "_____", "D___D", "_D_D_"]
+        ],
+        "mapping":{
+          "0": "bloodmagic:masterritualstone",
+          "B": "bloodmagic:ritualstone",
+          "W": "#bloodmagic:ritual_stones/water_earth_fire_air",
+          "A": "#bloodmagic:ritual_stones/air_water_earth_fire",
+          "F": "#bloodmagic:ritual_stones/fire_air_water_earth",
+          "E": "#bloodmagic:ritual_stones/earth_fire_air_water",
+          "D": "bloodmagic:duskritualstone"
+        },
+        "symetrical": false
+      },
+      "text": "Use a Ritual Diviner for easier contruction."
+    },
+    {
+      "type": "text",
+      "text": "Splits apart a well-grown Raw crystal cluster into seperal aspected crystal clusters.$(br2)$(#888888)Blank Runes: 4$(br)$(#0000aa)Water Runes: 1$(br)$(#aaaa00)Air Runes: 1$(br)$(#aa0000)Fire Runes: 1$(br)$(#00aa00)Earth Runes: 1$(br)$()Dusk Runes: 12$(br2)$()Total Runes: 20" 
+    },
+    {
+      "type": "text",
+      "text": "[WIP Notes]$(br2)[This needs a full explanation.  IIRC, designed to have Demon Will Crystalizer above MRS.  Fully grown Raw Will Crystal on top splits into single-spires of the 4 Will Variants on the 4 elemental ritual stones.]"
+    }
+  ]
+}

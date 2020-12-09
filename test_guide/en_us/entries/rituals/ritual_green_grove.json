@@ -1,0 +1,61 @@
+{
+  "name": "Ritual of the Green Grove",
+  "icon": "minecraft:bone_meal",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Ritual of the Green Grove",
+      "multiblock":{
+        "pattern":[
+          [
+            "EWE",
+            "W0W",
+            "EWE"
+          ]
+        ],
+        "mapping":{
+          "0": "bloodmagic:masterritualstone",
+          "E": "bloodmagic:earthritualstone",
+          "W": "bloodmagic:waterritualstone"
+        },
+        "symetrical": true
+      },
+      "text": "Use a Ritual Diviner for easier contruction."
+    },
+    {
+      "type": "text",
+      "text": "Grows crops within its area.$(br2)$(#0000aa)Water Runes: 4$()$(br)$(#00aa00)Earth Runes: 4$()$(br2)Total Runes: 8" 
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:defaultcrystal",
+      "title": "Raw",
+      "text": "Increases the speed of all of the ritual operations depending on the total Will in the Aura."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:corrosivecrystal",
+      "title": "Corrosive",
+      "text": "Entities within range are attacked by nearby plants, leeching away their life."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:vengefulcrystal",
+      "title": "Vengeful",
+      "text": "Increases the rate that a growth tick is successful."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:destructivecrystal",
+      "title": "Destructive",
+      "text": "Growing range is increased based on total Will."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:steadfastcrystal",
+      "title": "Steadfast",
+      "text": "Seeds are replanted and blocks are hydrated within the Hydration range."
+    }
+  ]
+}

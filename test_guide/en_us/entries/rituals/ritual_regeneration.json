@@ -1,0 +1,37 @@
+{
+  "name": "Ritual of Regeneration",
+  "icon": "minecraft:golden_apple",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Ritual of Regeneration",
+      "multiblock":{
+        "pattern":[
+          ["EEW_F_F_WEE", "E____F____E", "W_D_____D_W", "___________", "A_________A", "_A___0___A_", "A_________A", "___________", "W_D_____D_W", "E____F____E", "EEW_F_F_WEE"],
+          ["_E_______E_", "E_________E", "___________", "___________", "___________", "___________", "___________", "___________", "___________", "E_________E", "_E_______E_"]
+        ],
+        "mapping":{
+          "0": "bloodmagic:masterritualstone",
+          "W": "bloodmagic:waterritualstone",
+          "A": "#bloodmagic:ritual_stones/air_or_fire",
+          "F": "#bloodmagic:ritual_stones/fire_or_air",
+          "E": "bloodmagic:earthritualstone",
+          "D": "bloodmagic:duskritualstone"
+        },
+        "symetrical": true
+      },
+      "text": "Use a Ritual Diviner for easier contruction."
+    },
+    {
+      "type": "text",
+      "text": "Casts regeneration on entities within its range if they are missing health.$(br2)$(#0000aa)Water Runes: 8$(br)$(#aaaa00)Air Runes: 6$(br)$(#aa0000)Fire Runes: 6$(br)$(#00aa00)Earth Runes: 20$(br)$()Dusk Runes: 4$(br2)$()Total Runes: 44" 
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:corrosivecrystal",
+      "title": "Corrosive",
+      "text": "Steals health from non-players inside of its Vampirism range and directly heals players."
+    }
+  ]
+}
