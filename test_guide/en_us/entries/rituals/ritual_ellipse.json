@@ -37,10 +37,6 @@
     {
       "type": "text",
       "text": "Creates a hollow spheroid around the ritual using the blocks in the attached chest.$(br2)$(#0000aa)Water Runes: 8$(br)$(#aaaa00)Air Runes: 8$(br)$(#aa0000)Fire Runes: 8$(br)$(#00aa00)Earth Runes: 8$(br)$()Dusk Runes: 4$(br2)$()Total Runes: 36" 
-    },
-    {
-      "type": "text",
-      "text": "[WIP Notes]$(br2)[This needs a full explanation.  IIRC, designed to have Demon Will Crystalizer above MRS.  Fully grown Raw Will Crystal on top splits into single-spires of the 4 Will Variants on the 4 elemental ritual stones.]"
     }
   ]
 }

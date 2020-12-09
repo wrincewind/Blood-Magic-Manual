@@ -27,8 +27,10 @@
       "text": "Generates a source of water from the master ritual stone.$(br2)$(#0000aa)Water Runes: 4$()$(br2)Total Runes: 4" 
     },
     {
-      "type": "text",
-      "text": "Will Augmentations:$(br2)(Raw) The tank that the ritual will place water into."
+      "type": "spotlight",
+      "item": "bloodmagic:defaultcrystal",
+      "title": "Raw",
+      "text": "The tank that the ritual will place water into."
     }
   ]
 }

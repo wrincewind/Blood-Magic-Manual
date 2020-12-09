@@ -32,8 +32,34 @@
       "text": "Increases the maturity rate of baby animals within its range.$(br2)$(#0000aa)Water Runes: 4$(br)$(#aaaa00)Air Runes: 4$(br)$(br)$(#00aa00)Earth Runes: 4$(br)$()Dusk Runes: 4$(br2)$()Total Runes: 16" 
     },
     {
-      "type": "text",
-      "text": "Will Augmentations:$(br2)(Raw) Increases the speed of the ritual based on the total Will in the Aura.$(br)(Corrosive) Unimplemented.$(br)(Destructive) Causes adults that have not bred lately to run at mobs and explode.$(br)(Vengeful) Decreases the time it takes for adults to breed again.$(br)(Steadfast) Automatically breeds adults within its area using items in the connected chest." 
+      "type": "spotlight",
+      "item": "bloodmagic:defaultcrystal",
+      "title": "Raw",
+      "text": "Increases the speed of the ritual based on the total Will in the Aura."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:corrosivecrystal",
+      "title": "Corrosive",
+      "text": "Unimplemented."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:vengefulcrystal",
+      "title": "Vengeful",
+      "text": "Decreases the time it takes for adults to breed again."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:destructivecrystal",
+      "title": "Destructive",
+      "text": "Causes adults that have not bred lately to run at mobs and explode."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:steadfastcrystal",
+      "title": "Steadfast",
+      "text": "Automatically breeds adults within its area using items in the connected chest."
     }
   ]
 }

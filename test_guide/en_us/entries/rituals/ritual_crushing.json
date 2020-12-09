@@ -27,8 +27,34 @@
       "text": "Breaks blocks within its crushing range and places the items into the linked chest.$(br2)$(#aaaa00)Air Runes: 4$(br)$(#aa0000)Fire Runes: 4$(br)$(#00aa00)Earth Runes: 4$(br)$()Dusk Runes: 4$(br2)$()Total Runes: 16" 
     },
     {
-      "type": "text",
-      "text": "Will Augmentations:$(br2)(Raw) Increases the speed of the ritual based on total Will.$(br)(Corrosive) All blocks are broken to be processed with a form of cutting fluid. Overrides Silk Touch where applicable.$(br)(Destructive) Blocks are broken down forcefully: all blocks broken are affected by Fortune III.$(br)(Vengeful) Compresses the inventory on successful operation. Currently only does one compression per operation.$(br)(Steadfast) Causes all blocks that are broken to be picked up with silk touch. Overrides Fortune where applicable."
+      "type": "spotlight",
+      "item": "bloodmagic:defaultcrystal",
+      "title": "Raw",
+      "text": "Increases the speed of the ritual based on total Will."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:corrosivecrystal",
+      "title": "Corrosive",
+      "text": "All blocks are broken to be processed with a form of cutting fluid. Overrides Silk Touch where applicable."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:vengefulcrystal",
+      "title": "Vengeful",
+      "text": "Compresses the inventory on successful operation. Currently only does one compression per operation."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:destructivecrystal",
+      "title": "Destructive",
+      "text": "Blocks are broken down forcefully: all blocks broken are affected by Fortune III."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:steadfastcrystal",
+      "title": "Steadfast",
+      "text": "Causes all blocks that are broken to be picked up with silk touch. Overrides Fortune where applicable."
     }
   ]
 }
