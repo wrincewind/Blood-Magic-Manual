@@ -1,7 +1,7 @@
 {
   "name": "Resonance of the Faceted Crystal",
   "icon": "bloodmagic:vengefulcrystal",
-  "category": "rituals",
+  "category": "rituals_list",
   "pages": [
     {
       "type": "multiblock",

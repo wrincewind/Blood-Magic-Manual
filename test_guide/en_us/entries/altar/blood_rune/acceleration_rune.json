@@ -1,7 +1,7 @@
 {
   "name": "Acceleration Rune",
   "icon": "bloodmagic:accelerationrune",
-  "category": "altar",
+  "category": "blood_rune",
   "pages": [
     {
       "type": "text",
