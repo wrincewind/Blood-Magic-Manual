@@ -31,6 +31,12 @@
       "item": "bloodmagic:defaultcrystal",
       "title": "Raw",
       "text": "The tank that the ritual will place water into."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:ritualtinkerer",
+      "title": "Range",
+      "text": "(Water) The area within which the Ritual will place Source Blocks. $(br2)$(li)Maximum Volume: 9 $(li)Horizontal Radius: 3 $(li)Vertical Radius: 3 "
     }
   ]
 }

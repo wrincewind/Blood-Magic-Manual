@@ -60,6 +60,20 @@
       "item": "bloodmagic:steadfastcrystal",
       "title": "Steadfast",
       "text": "Automatically breeds adults within its area using items in the connected chest."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:ritualtinkerer",
+      "title": "Range",
+      "text": "(Growth) Animals within this range will grow much faster. $(br) $(li)Maximum Volume: Full Range. $(li)Horizontal Radius: 7 $(li)Vertical Radius: 7"
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:ritualtinkerer",
+      "title": "Range",
+      "text": "(Chest) Chest for breeding items (if properly augmented, requires steadfast will).$(br) $(li)Maximum Volume: 1 $(li)Horizontal Radius: 3 $(li)Vertical Radius: 3"
     }
   ]
 }
+
+

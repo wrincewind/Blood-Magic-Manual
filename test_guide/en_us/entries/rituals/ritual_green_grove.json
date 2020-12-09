@@ -56,6 +56,24 @@
       "item": "bloodmagic:steadfastcrystal",
       "title": "Steadfast",
       "text": "Seeds are replanted and blocks are hydrated within the Hydration range."
-    }
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:ritualtinkerer",
+      "title": "Range",
+      "text": "(Growth) The area that the ritual will grow plants in. $(br) $(li)Maximum Volume: 81 $(li)Horizontal Radius: 4 $(li)Vertical Radius: 4"
+    },
+    {
+	  "type": "spotlight",
+      "item": "bloodmagic:ritualtinkerer",
+      "title": "Range",
+      "text": "(Steadfast) Blocks within this range are rehydrated into farmland, and seeds within the area are planted nearby. $(br) $(li)Maximum Volume: Full Range. $(li)Horizontal Radius: 15 $(li)Vertical Radius: 15"
+	},
+	{
+	  "type": "spotlight",
+      "item": "bloodmagic:ritualtinkerer",
+      "title": "Range",
+      "text": "(Corrosive) Entities in this area have their life drained to grow nearby crops. $(br) $(li)Maximum Volume: Full Range. $(li)Horizontal Radius: 15 $(li)Vertical Radius: 15"
+	}
   ]
 }
