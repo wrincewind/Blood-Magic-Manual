@@ -8,7 +8,7 @@
       "name": "Resonance of the Faceted Crystal",
       "multiblock":{
         "pattern":[
-          ["__D__", "_BFB_", "DA0ED", "_BWB_", "__D__"],
+          ["__D__", "_BFB_", "DE0AD", "_BWB_", "__D__"],
           ["_D_D_", "D___D", "_____", "D___D", "_D_D_"]
         ],
         "mapping":{
