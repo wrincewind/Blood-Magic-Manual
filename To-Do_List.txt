@@ -1,28 +1,26 @@
+
 Sigils:
-* magnetism - Sigil of Magnetism - Text
+* magnetism - Sigil of Magnetism - Text.  NYI.
 * ice - Sigil of the Frozen Lake - Text.  NYI?
-* seer - Seer's Sigil - Text
-* void - Void Sigil - Text
-* air - Air Sigil - Text
-* bloodlight - Sigil of the Blood Lamp - Text
 
 Rituals:
-Serenade of the Nether - Text
-Ritual of the Full Spring - Text
-Ritual of the Green Grove - Text
-Ritual of the Shepherd - Text
-Ritual of the Crusher - Text
-Ritual of Magnetism - Text
-Resonance of the Faceted Crystal - Text
-Reap of the Harvest Moon - Text
-ritual.bloodmagic.ellipseRitual - Focus of the Ellipsoid (name added in our Resource Pack). - Text
-Ritual of the Feathered Knife - Text
-Crack of the Fractured Crystal - Text
-Ritual of Regeneration - Text
-Ritual of Living Evolution - Text
-Sound of the Cleansing Soul - Text
+Serenade of the Nether
+Ritual of the Full Spring
+Ritual of the Green Grove
+Ritual of the Shepherd
+Ritual of the Crusher
+Ritual of Magnetism
+Resonance of the Faceted Crystal
+Reap of the Harvest Moon
+ritual.bloodmagic.ellipseRitual - Ritual of the Ellipsoid?
+Ritual of the Feathered Knife
+Crack of the Fractured Crystal
+Ritual of Regeneration
+Ritual of Living Evolution
+Sound of the Cleansing Soul
 + Ritual Tinkerer, and possibly the other tools.
-? Should we order the pages to match the Ritual Diviner?  It would be more work and upkeep...
+- Ritual Tinkerer, Activation Crystals, Lava Crystals, and Tome of Peritia all implemented. Any other tools i'm missing?
++ All Rituals need a "Text" pass.
 
 Not Categorized Yet:
 Ritual of Binding/Living Armor

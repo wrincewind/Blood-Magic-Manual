@@ -1,6 +1,6 @@
 {
   "name": "Rituals - Getting Started",
-  "icon": "bloodmagic:ritualdiviner",
+  "icon": "bloodmagic:activationcrystalcreative",
   "category": "rituals",
   "priority": "true",
   "pages": [
@@ -10,7 +10,7 @@
     },
 	{
       "type": "text",
-      "text": "$(li)Enough Ritual Stones to built the Ritual. $(li)(Recommended) A Ritual Diviner. Although not required, it will make ritual construction significantly easier. $(br2)Building a ritual is relatively straightforward. Simply shift+click with the Ritual Diviner in hand until it displays the name of the desired ritual. Check the number of runes required by mousing over it in your" 
+      "text": "$(li)Enough Ritual Stones to built the Ritual. $(li)(Recommended) A $(l:rituals/ritualdiviner)Ritual Diviner$(). Although not required, it will make ritual construction significantly easier. $(br2)Building a ritual is relatively straightforward. Simply shift+click with the Ritual Diviner in hand until it displays the name of the desired ritual. Check the number of runes required by mousing over it in your" 
 	},
 	{
 	  "type": "text",
