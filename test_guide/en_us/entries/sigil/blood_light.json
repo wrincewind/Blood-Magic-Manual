@@ -14,6 +14,18 @@
       "slate": "bloodmagic:infusedslate",
       "output": "bloodmagic:bloodlightsigil",
       "text": "I see a light!"
+    },
+    {
+      "type": "crafting_soulforge",
+	  "heading": "Blood Lamp Reagent",
+      "input1": "minecraft:glowstone_dust",
+	  "input2": "minecraft:torch",
+	  "input3": "minecraft:redstone",
+	  "input4": "minecraft:redstone",
+	  "output": "bloodmagic:reagentbloodlight",
+	  "willrequired": "300",
+	  "willdrain": "10",
+	  "text": "It glimmers so brightly..."
     }
   ]
 }

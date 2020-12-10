@@ -14,6 +14,18 @@
       "slate": "bloodmagic:reinforcedslate",
       "output": "bloodmagic:voidsigil",
       "text": "Better than a Swiffer\u00AE!"
+    },
+	{
+      "type": "crafting_soulforge",
+	  "heading": "Void Reagent",
+      "input1": "minecraft:bucket",
+	  "input2": "minecraft:string",
+	  "input3": "minecraft:string",
+	  "input4": "minecraft:gunpowder",
+	  "output": "bloodmagic:reagentvoid",
+	  "willrequired": "64",
+	  "willdrain": "10",
+	  "text": "it feels like i'm holding nothing at all..."
     }
   ]
 }

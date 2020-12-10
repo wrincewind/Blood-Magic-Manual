@@ -28,6 +28,18 @@
       "input": "bloodmagic:reagentgrowth",
       "slate": "bloodmagic:reinforcedslate",
       "output": "bloodmagic:growthsigil"
+    },
+	{
+      "type": "crafting_soulforge",
+	  "heading": "Growth Reagent",
+      "input1": "minecraft:oak_sapling",
+	  "input2": "minecraft:oak_sapling",
+	  "input3": "minecraft:sugar_cane",
+	  "input4": "minecraft:sugar",
+	  "output": "bloodmagic:reagentgrowth",
+	  "willrequired": "128",
+	  "willdrain": "20",
+	  "text": "It pulses with the power of spring..."
     }
   ]
 }

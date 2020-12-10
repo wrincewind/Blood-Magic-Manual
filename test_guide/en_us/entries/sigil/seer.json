@@ -27,6 +27,18 @@
       "title": "Seer's Sigil Display",
       "border": true,
       "text": "The Seer's Sigil's displays this HUD when you are looking at a blood Altar."
+    },
+	{
+      "type": "crafting_soulforge",
+	  "heading": "Sight Reagent",
+      "input1": "minecraft:glowstone_dust",
+	  "input2": "minecraft:glass",
+	  "input3": "minecraft:glass",
+	  "input4": "bloodmagic:divinationsigil",
+	  "output": "bloodmagic:reagentsight",
+	  "willrequired": "64",
+	  "willdrain": "0",
+	  "text": "I can feel the knowledge trapped within..."
     }
   ]
 }
