@@ -2,6 +2,7 @@
   "name": "Living Equipment Basics",
   "icon": "bloodmagic:reagentbinding",
   "category": "living_equipment",
+  "priority": "true",
   "pages": [
     {
       "type": "text",
@@ -21,7 +22,7 @@
     },
     {
    	  "type": "text",
-   	  "text": "as with any other Alchemy Array, right click the top of the ground with the $(item)Arcane Ashes$() and apply the $(item)Binding Reagent$(). Then place in your $(item)Iron Helmet$(), $(item)Iron Chestplate$(), $(item)Iron Leggings$() or $(item)Iron Boots$(), stand back, and watch the show."
+   	  "text": "as with any other Alchemy Array, right click the top of the ground with the $(item)Arcane Ashes$() and apply the $(item)Binding Reagent$(). Then place in your $(item)Iron Helmet$(), $(item)Iron Chestplate$(), $(item)Iron Leggings$() or $(item)Iron Boots$(), stand back, and watch the show.$(br2) Living Equipment starts off equivalent to Iron, but it has $(item)Upgrade Points$() that can, with care, be spent to train it in specific ways. It starts with 100, but there may be ways to surpass this limitation..."
    	},
     {
       "type": "crafting_array",
@@ -29,12 +30,7 @@
       "input": "bloodmagic:reagentbinding",
       "slate": "minecraft:iron_helmet",
       "output": "bloodmagic:livinghelmet",
-      "text": "It's alive, all right... and it's learning from me. I'd best be careful what I teach it..."
-    },
-   	
-   	{
-   	  "type": "text",
-   	  "text": "Each effect requires two items: a base and a catalyst. The base is the first item that you click the array with after it is drawn, and the catalyst is the second item. When you apply the input, the design of the array will change if it is valid, and the array will start activating once you apply the catalyst.$(br2)You can have arrays that range from $(l:alchemy_array/craftingarray)crafting arrays$(/l) to even teleportation arrays."
-   	}
+      "text": "It's alive, all right... and it's learning from me. I'd best be careful what I teach it. $(br2)I can keep a closer eye on what it's learned so far by holding shift when I look at it."
+    }
   ]
 }

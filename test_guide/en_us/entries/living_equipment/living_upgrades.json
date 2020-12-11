@@ -1,0 +1,11 @@
+{
+  "name": "Living Equipment Upgrades",
+  "icon": "bloodmagic:upgradetome",
+  "category": "living_equipment",
+  "pages": [
+        {
+      "type": "text",
+      "text": "$(o)Pin Cushion.$() $(br2)Effect: $(br2)Trained by: $(br2)Maximum level:"
+		}
+  ]
+}

@@ -6,19 +6,7 @@ Demon Will Crystals -
 	[note: link/explain these in the cracking ritual]
 	
 Currently Implemented Living Armour Upgrades:
-- Pin Cushion
-- Soft Fall
-- Tough
-- Strong Legs (Now can be temporarily deactivated when jumping by sneaking)
-- Healthy
-- Experienced 
--Charging Strike
-- Tough Palms
-- Quick Feet
-- Poison Resistance
-- Gift of Ignis
-- Dwarven Might
-- Body Builder
+
 
 Possibly show recipes for sigils / reagents?
 
@@ -40,9 +28,9 @@ Awakened Activation Crystal
 Alchemical Reaction Chamber
 	Sanguine Reverter
 	Primitive Resonator
-Living Armour creation (Binding reagent has no recipe i think?)
 Training Bracelets?
 Sentient Armour?
 Seeds of Doubt 
 Ground dust of doubt or whatever it's called
 
+Imperfect Rituals?
