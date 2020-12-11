@@ -1,11 +1,11 @@
 {
   "name": "Tartaric Gems",
   "icon": "bloodmagic:soulgemgreater",
-  "category": "demonwill",
+  "category": "demon_will",
   "pages": [
     {
       "type": "text",
-      "text": "$(l:demonwill/demonwill)$(item)Demon Will$() is a very useful resource, but the fragments you have been getting so far are decidedly lacking in power. What you need is a storage item; A $(item)Tartaric Gem$() seems just the thing. What's more, it can absorb any leftover Demon Will you might have lying around. Just drop them onto the floor and your shiny new gem will absorb them."
+      "text": "$(l:demon_will/demon_will)$(item)Demon Will$() is a very useful resource, but the fragments you have been getting so far are decidedly lacking in power. What you need is a storage item; A $(item)Tartaric Gem$() seems just the thing. What's more, it can absorb any leftover Demon Will you might have lying around. Just drop them onto the floor and your shiny new gem will absorb them."
     },
     {
       "type": "crafting_soulforge",

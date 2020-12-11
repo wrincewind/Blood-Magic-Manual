@@ -65,7 +65,7 @@
       "type": "text",
       "text": "Drained:$(br)#willdrain# will",
       "x": 60,
-	  "y": 44
+	  "y": 46
     },
     {
       "type": "text",
