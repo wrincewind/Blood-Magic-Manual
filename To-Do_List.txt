@@ -1,5 +1,22 @@
 Not Categorized Yet:
+Bucket o' Blood
+Pumping fluids in and out of the altar (nyi?)
 Alchemy Table - and uses, too. Sub-chapter?
+	grass block
+	plant oil
+	coal sand
+		explosive powder
+			ore tripling!?
+	basic cutting fluid
+		Ore dusts / ore doubling?
+	leather
+	bread
+	clay
+	string
+	flint (bugged)
+	gunpowder (NYI)
+
+
 Demon Will Crystals -
 	Demon Crucible / Advanced Will Handling / Demonic Aura
 	[note: link/explain these in the cracking ritual]
@@ -25,3 +42,8 @@ Seeds of Doubt
 Ground dust of doubt or whatever it's called
 
 Imperfect Rituals?
+
+saltpeter
+	gunpowder in the aclhemy table
+	
+item/fluid transfer system
