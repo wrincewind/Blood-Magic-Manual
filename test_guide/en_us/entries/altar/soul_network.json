@@ -14,6 +14,38 @@
     {
       "type": "text",
       "text": "being placed inside of a $(l:altar/bloodaltar)Blood Altar$(/l) with LP.$(br2)  There is a separate Blood Orb that can be created for each Tier of the Blood Altar:$(li)$(item)Weak Blood Orb$(), Max capacity: 5000LP.$(li)$(item)Apprentice Blood Orb$(), Max capacity: 25k LP. $(li)$(item)Magician Blood Orb$(), Max capacity: 150k LP.$(li)$(item)Master Blood Orb$(), Max capacity: 1M LP."
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Weak Blood Orb",
+      "input": "minecraft:diamond",
+	  "output": "bloodmagic:weakbloodorb",
+	  "tier": "I",
+	  "LP": "2,000"
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Apprentice Blood Orb",
+      "input": "minecraft:redstone_block",
+	  "output": "bloodmagic:apprenticebloodorb",
+	  "tier": "II",
+	  "LP": "5,000"
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Magician Blood Orb",
+      "input": "minecraft:gold_block",
+	  "output": "bloodmagic:magicianbloodorb",
+	  "tier": "III",
+	  "LP": "25,000"
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Master Blood Orb",
+      "input": "bloodmagic:weakbloodshard",
+	  "output": "bloodmagic:masterbloodorb",
+	  "tier": "IV",
+	  "LP": "40,000"
     }
   ]
 }

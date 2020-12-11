@@ -1,20 +1,11 @@
 Not Categorized Yet:
-Ritual of Binding/Living Armor
 Alchemy Table - and uses, too. Sub-chapter?
 Demon Will Crystals -
 	Demon Crucible / Advanced Will Handling / Demonic Aura
 	[note: link/explain these in the cracking ritual]
 	
-Currently Implemented Living Armour Upgrades:
-
-
-Possibly show recipes for sigils / reagents?
-
-Blank/Master Ritual Stones
-
 Sentient sword / sentient tools / sentient scythe - augmented with demonic will? still don't fully get that functionality myself. Some of it isn't implemented, maybe?
 
-Recipes for Blood Orbs, maybe?
 general second passthrough for consistency, ensuring all pages are linked whenever they're mentioned, adding additional recipes and items to the pages to enable patchoulli's 'hold ctrl to view entry' functon to work, etc.
 
 
