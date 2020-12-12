@@ -39,7 +39,7 @@
 	  "output": "bloodmagic:reagentgrowth",
 	  "willrequired": "128",
 	  "willdrain": "20",
-	  "text": "It pulses with the power of spring..."
+	  "text": "$(italic)It pulses with the power of spring..."
     }
   ]
 }

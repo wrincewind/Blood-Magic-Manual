@@ -13,7 +13,7 @@
       "input": "bloodmagic:reagentsight",
       "slate": "bloodmagic:reinforcedslate",
       "output": "bloodmagic:seersigil",
-      "text": "When seeing all is not enough"
+      "text": "$(italic)When seeing all is not enough"
     },
 	{
       "type": "text",
@@ -38,7 +38,7 @@
 	  "output": "bloodmagic:reagentsight",
 	  "willrequired": "64",
 	  "willdrain": "0",
-	  "text": "I can feel the knowledge trapped within..."
+	  "text": "$(italic)I can feel the knowledge trapped within..."
     }
   ]
 }

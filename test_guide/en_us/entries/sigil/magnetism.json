@@ -24,7 +24,7 @@
 	  "output": "bloodmagic:reagentlava",
 	  "willrequired": "32",
 	  "willdrain": "10",
-	  "text": "it tugs gently northwards..."
+	  "text": "$(italic)It tugs gently northwards..."
     }
   ]
 }

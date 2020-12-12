@@ -13,7 +13,7 @@
       "input": "bloodmagic:reagentbloodlight",
       "slate": "bloodmagic:infusedslate",
       "output": "bloodmagic:bloodlightsigil",
-      "text": "I see a light!"
+      "text": "$(italic)I see a light!"
     },
     {
       "type": "crafting_soulforge",
@@ -25,7 +25,7 @@
 	  "output": "bloodmagic:reagentbloodlight",
 	  "willrequired": "300",
 	  "willdrain": "10",
-	  "text": "It glimmers so brightly..."
+	  "text": "$(italic)It glimmers so brightly..."
     }
   ]
 }

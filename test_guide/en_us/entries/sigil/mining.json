@@ -34,7 +34,7 @@
 	  "output": "bloodmagic:reagentfastminer",
 	  "willrequired": "128",
 	  "willdrain": "20",
-	  "text": "The walls seem weaker when I hold it..."
+	  "text": "$(italic)The walls seem weaker when I hold it..."
     }
   ]
 }

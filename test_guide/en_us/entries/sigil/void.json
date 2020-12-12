@@ -13,7 +13,7 @@
       "input": "bloodmagic:reagentvoid",
       "slate": "bloodmagic:reinforcedslate",
       "output": "bloodmagic:voidsigil",
-      "text": "Better than a Swiffer\u00AE!"
+      "text": "$(italic)Better than a Swiffer\u00AE!"
     },
 	{
       "type": "crafting_soulforge",
@@ -25,7 +25,7 @@
 	  "output": "bloodmagic:reagentvoid",
 	  "willrequired": "64",
 	  "willdrain": "10",
-	  "text": "it feels like i'm holding nothing at all..."
+	  "text": "$(italic)It feels like i'm holding nothing at all..."
     }
   ]
 }

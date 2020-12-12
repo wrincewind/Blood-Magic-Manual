@@ -23,7 +23,7 @@
       "input": "bloodmagic:reagentlava",
       "slate": "bloodmagic:blankslate",
       "output": "bloodmagic:lavasigil",
-      "text": " $(o)HOT! DO NOT EAT"
+      "text": " $(italic)HOT! DO NOT EAT"
     },
 	{
       "type": "crafting_soulforge",
@@ -35,7 +35,7 @@
 	  "output": "bloodmagic:reagentlava",
 	  "willrequired": "32",
 	  "willdrain": "10",
-	  "text": "It almost hurts to hold..."
+	  "text": "$(italic)It almost hurts to hold..."
     }
   ]
 }
