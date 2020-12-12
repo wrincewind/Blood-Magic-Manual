@@ -1,70 +1,86 @@
-    {
-      "type": "text",
-      "text": "$(o)Pin Cushion.$() $(br2)Effect: $(br2)Trained by: "
-    },
+	{
+	  "type": "spotlight",
+      "item": "minecraft:",
+      "title": "",
+      "text": "Effect: $(br2)Trained by:  $(br2)Maximum level: "
+	},
 
 [right click with a tome in hand to apply it to your currently equipped living armour]
 
 Name 				Body Builder
+Spotlight Icon:		Cooked Beef
 Description/Effect	Knockback Resistance and Bonus Health. Caps out at 100% resistance and 10 half-hearts of health.
 Training Method		consuming food
 Maximum Level		5
 
 Name 				Charging Strike
+Spotlight Icon:		golden axe
 Description/Effect	Increases damage and knockback from sprinting attacks, up to +50%.
 Training Method		dealing damage while sprinting
 Maximum Level		5
 
 Name 				Dwarven Might
+Spotlight Icon:		diamond pickaxe
 Description/Effect	Increases mining speed while mining identical blocks. After a certain level, gives a Haste buff after breaking blocks.
 Training Method		Mining
 Maximum Level		10
 
 Name 				Experienced 
+Spotlight Icon:		bottle o' enchanting
 Description/Effect	Increases XP drops, up to 150%.
 Training Method		Collecting XP
 Maximum Level		10
 
 Name 				Gift of Ignis
+Spotlight Icon:		Blaze Powder
 Description/Effect	Provides Fire Resistance. Higher levels last longer and recharge faster.
 Training Method		being on fire (Fire resistance counts)
 Maximum Level		5
 
 Name 				Healthy
+Spotlight Icon:		Golden Apple
 Description/Effect	Provides additional health, up to 50 half-hearts. 
 Training Method		Restoring Health (Healing / Potions / Regen)
 Maximum Level		10
 
 Name 				Pin Cushion
+Spotlight Icon:		arrow
 Description/Effect	Offers protection from arrows
 Training Method		getting shot at
 Maximum Level		10
 
 Name 				Poison Resistance
+Spotlight Icon:		milk bucket
 Description/Effect	cures poison on a cooldown. Cooldown shortens with additional levels
 Training Method		having the Poison debuff
 Maximum Level		5
 
 Name 				Quick Feet
+Spotlight Icon:		sugar
 Description/Effect	Increases player movement speed up to 150% 
 Training Method		running around
+Maximum Level		10
 
 Name 				Soft Fall
+Spotlight Icon:		feather
 Description/Effect	Reduces fall damage, up to complete immunity
 Training Method		Getting hurt by falls
 Maximum Level		5
 
 Name 				Strong Legs 
+Spotlight Icon:		diamond boots
 Description/Effect	Increases jump height and reduces fall damage, up to a maximum of 7.5 blocks and 83% fall resistance. (Old info. JSON just says "Jump":"1.3")
 Training Method		Jumping Around
 Maximum Level		10
 
 Name 				Tough
+Spotlight Icon:		diamond chestplate
 Description/Effect	Protects you from non-projectile harm
 Training Method		Taking non-projectile damage
 Maximum Level		10
 
 Name 				Tough Palms
+Spotlight Icon:		sacrificial dagger
 Description/Effect	Self Sacrifice bonus, up to 150%
 Training Method		Self Sacrifice
 Maximum Level		10
