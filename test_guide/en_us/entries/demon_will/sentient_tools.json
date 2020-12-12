@@ -21,7 +21,7 @@
     },
 	{
       "type": "text",
-      "text": "The $(item)Sentient Scythe$() is a slightly different tool to its iron counterpart. Infusing it with will has transmuted it into a fearsone weapon. While slow and unwieldy, its great swings will damage all enemies in its range, making it an excellent choice for crowd control. If you can augment it with Destructive Will, then the damage per swing will be noticably buffed at the expense of attack speed. For those who favor speed, Vengeful will does the opposite."
+      "text": "The $(item)Sentient Scythe$() is a slightly different tool to its iron counterpart. Infusing it with will has transmuted it into a fearsone weapon. While slow and not as powerful as the other weapons, its great swings will damage all enemies in its range, making it an excellent choice for crowd control."
     },
     {
       "type": "crafting_soulforge",
@@ -37,7 +37,7 @@
     },
 	{
       "type": "text",
-      "text": "Much like the $(item)Sentient Pickaxe$(), the $(item)Sentient Axe$() is a noticable improvement over its Iron counterpart. Additionally, it gets a noticable buff in its damage output, making it a fearsome weapon for those who don't mind its unwieldy nature. If you can augment it with Destructive Will, then the damage per swing will be noticably buffed at the expense of attack speed. For those who favor speed, Vengeful will does the opposite."
+      "text": "Much like the $(item)Sentient Pickaxe$(), the $(item)Sentient Axe$() is a noticable improvement over its Iron counterpart. Additionally, it gets a noticable buff in its damage output, making it a fearsome weapon for those who don't mind its unwieldy nature."
     },
     {
       "type": "crafting_soulforge",
