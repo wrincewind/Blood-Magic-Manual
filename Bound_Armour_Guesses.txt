@@ -3,7 +3,7 @@
       "text": "$(o)Pin Cushion.$() $(br2)Effect: $(br2)Trained by: "
     },
 
-
+[right click with a tome in hand to apply it to your currently equipped living armour]
 
 Name 				Body Builder
 Description/Effect	Knockback Resistance and Bonus Health. Caps out at 100% resistance and 10 half-hearts of health.
@@ -16,9 +16,9 @@ Training Method		dealing damage while sprinting
 Maximum Level		5
 
 Name 				Dwarven Might
-Description/Effect	Increases mining speed while mining identical blocks. Gives a speed buff after breaking blocks. (JSON says something about speed-time, speed-level and speed-modifier?)
+Description/Effect	Increases mining speed while mining identical blocks. After a certain level, gives a Haste buff after breaking blocks.
 Training Method		Mining
-Maximum Level		9
+Maximum Level		10
 
 Name 				Experienced 
 Description/Effect	Increases XP drops, up to 150%.
@@ -27,7 +27,7 @@ Maximum Level		10
 
 Name 				Gift of Ignis
 Description/Effect	Provides Fire Resistance. Higher levels last longer and recharge faster.
-Training Method		being on fire (taking fire damage?)
+Training Method		being on fire (Fire resistance counts)
 Maximum Level		5
 
 Name 				Healthy
@@ -41,12 +41,12 @@ Training Method		getting shot at
 Maximum Level		10
 
 Name 				Poison Resistance
-Description/Effect	Cures...posion?
-Training Method		Drinking milk? being poisoned?
-Maximum Level		5?
+Description/Effect	cures poison on a cooldown. Cooldown shortens with additional levels
+Training Method		having the Poison debuff
+Maximum Level		5
 
 Name 				Quick Feet
-Description/Effect	Increases player movement speed up to 150%, gives additional effects. (Extra health, according to the guide? JSON says something about speed-time, speed-level and speed-modifier?)
+Description/Effect	Increases player movement speed up to 150% 
 Training Method		running around
 
 Name 				Soft Fall
@@ -60,8 +60,8 @@ Training Method		Jumping Around
 Maximum Level		10
 
 Name 				Tough
-Description/Effect	Protects you from harm
-Training Method		Taking damage (melee only?)
+Description/Effect	Protects you from non-projectile harm
+Training Method		Taking non-projectile damage
 Maximum Level		10
 
 Name 				Tough Palms
