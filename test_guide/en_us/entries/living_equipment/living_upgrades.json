@@ -19,12 +19,6 @@
 	},
 	{
 	  "type": "spotlight",
-      "item": "minecraft:cooked_beef",
-      "title": "Body Builder",
-      "text": "$(li)Effect: Grants Knockback Resistance and bonus Health. Caps out at 100% Resistance and 10 half-hearts of health. $(br) $(li)Trained by: Eating food. $(br) $(li)Maximum level: 5"
-	},
-	{
-	  "type": "spotlight",
       "item": "minecraft:golden_axe",
       "title": "Charging Strike",
       "text": "Effect: Increases damage and knockback from sprinting attacks, up to +50%. $(br2)Trained by: Dealing damage while sprinting. $(br2)Maximum level: 5"
