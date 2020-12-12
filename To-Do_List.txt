@@ -16,11 +16,6 @@ Alchemy Table - and uses, too. Sub-chapter?
 	gunpowder (NYI)
 
 
-Demon Will Crystals -
-	Demon Crucible / Advanced Will Handling / Demonic Aura
-	[note: link/explain these in the cracking ritual]
-	
-Sentient sword / sentient tools / sentient scythe - augmented with demonic will? still don't fully get that functionality myself. Some of it isn't implemented, maybe?
 
 general second passthrough for consistency, ensuring all pages are linked whenever they're mentioned, adding additional recipes and items to the pages to enable patchoulli's 'hold ctrl to view entry' functon to work, etc.
 
@@ -47,3 +42,6 @@ saltpeter
 	
 item/fluid transfer system?
 
+Ritual for automatically breaking crystals
+	-> suggestion for net-positive will cycle
+[the ritual itself is implemented, but Way is planning on changing how Crystal Automation works, so, best wait)
