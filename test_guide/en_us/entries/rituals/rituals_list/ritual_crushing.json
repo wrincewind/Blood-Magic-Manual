@@ -24,7 +24,7 @@
     },
     {
       "type": "text",
-      "text": "Breaks blocks within its crushing range and places the items into the linked chest.$(br2)$(#aaaa00)Air Runes: 4$(br)$(#aa0000)Fire Runes: 4$(br)$(#00aa00)Earth Runes: 4$(br)$()Dusk Runes: 4$(br2)$()Total Runes: 16" 
+      "text": "Breaks blocks within its crushing range and places the items into the linked chest.$(br2)$(air)Air Runes: 4$(br)$(fire)Fire Runes: 4$(br)$(earth)Earth Runes: 4$(br)$()Dusk Runes: 4$(br2)$()Total Runes: 16" 
     },
     {
       "type": "spotlight",

@@ -24,7 +24,7 @@
     },
     {
       "type": "text",
-      "text": "Generates a source of lava from the master ritual stone.$(br2)$(#aa0000)Fire Runes: 4$()$(br2)Total Runes: 4" 
+      "text": "Generates a source of lava from the master ritual stone.$(br2)$(fire)Fire Runes: 4$()$(br2)Total Runes: 4" 
     },
     {
       "type": "spotlight",

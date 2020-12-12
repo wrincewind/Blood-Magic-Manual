@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "Grows crops within its area.$(br2)$(#0000aa)Water Runes: 4$()$(br)$(#00aa00)Earth Runes: 4$()$(br2)Total Runes: 8" 
+      "text": "Grows crops within its area.$(br2)$(water)Water Runes: 4$()$(br)$(earth)Earth Runes: 4$()$(br2)Total Runes: 8" 
     },
     {
       "type": "spotlight",

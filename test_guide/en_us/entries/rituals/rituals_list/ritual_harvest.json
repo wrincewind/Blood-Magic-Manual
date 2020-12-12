@@ -30,7 +30,7 @@
     },
     {
       "type": "text",
-      "text": "Harvests plants within its range, dropping the results on the ground.$(br2)$(#0000aa)Water Runes: 8$(br)$(#00aa00)Earth Runes: 12$(br)$()Dusk Runes: 4$(br2)$()Total Runes: 24" 
+      "text": "Harvests plants within its range, dropping the results on the ground.$(br2)$(water)Water Runes: 8$(br)$(earth)Earth Runes: 12$(br)$()Dusk Runes: 4$(br2)$()Total Runes: 24" 
     },
 	{
 	  "type": "spotlight",

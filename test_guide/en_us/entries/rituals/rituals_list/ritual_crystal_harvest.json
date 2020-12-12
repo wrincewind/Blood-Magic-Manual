@@ -1,6 +1,6 @@
 {
   "name": "Crack of the Fractured Crystal",
-  "icon": "bloodmagic:destructivecrystal",
+  "icon": "bloodmagic:defaultcrystal",
   "category": "rituals_list",
   "pages": [
     {
@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "Breaks Demon Will crystal clusters within its range, dropping the results on top of the crystals.$(br2)$(#aaaa00)Air Runes: 4$(br)$(#aa0000)Fire Runes: 20$(br)$(#00aa00)Earth Runes: 8$(br)$()Dusk Runes: 12$(br2)$()Total Runes: 44" 
+      "text": "Breaks Demon Will crystal clusters within its range, dropping the results on top of the crystals.$(br2)$(air)Air Runes: 4$(br)$(fire)Fire Runes: 20$(br)$(earth)Earth Runes: 8$(br)$()Dusk Runes: 12$(br2)$()Total Runes: 44" 
     },
 	{
 	  "type": "spotlight",

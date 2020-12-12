@@ -26,7 +26,7 @@
     },
     {
       "type": "text",
-      "text": "Increases the amount of maximum Upgrade Points on your Living Armor to 300.$(br2)$(#aa0000)Fire Runes: 12$(br)$(#00aa00)Earth Runes: 24$(br)$()Dusk Runes: 12$(br2)$()Total Runes: 48" 
+      "text": "Increases the amount of maximum Upgrade Points on your Living Armor to 300.$(br2)$(fire)Fire Runes: 12$(br)$(earth)Earth Runes: 24$(br)$()Dusk Runes: 12$(br2)$()Total Runes: 48" 
     }
   ]
 }
