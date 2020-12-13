@@ -36,6 +36,7 @@
 	  "input2": "minecraft:oak_sapling",
 	  "input3": "minecraft:sugar_cane",
 	  "input4": "minecraft:sugar",
+      "will": "bloodmagic:soulgemlesser",
 	  "output": "bloodmagic:reagentgrowth",
 	  "willrequired": "128",
 	  "willdrain": "20",

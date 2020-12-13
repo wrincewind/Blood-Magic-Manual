@@ -14,6 +14,7 @@
 	  "input2": "minecraft:iron_sword",
 	  "input3": "",
 	  "input4": "",
+      "will": "bloodmagic:basemonstersoul",
 	  "output": "bloodmagic:soulsword",
 	  "willrequired": "0",
 	  "willdrain": "0",
