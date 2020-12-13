@@ -16,12 +16,18 @@ Alchemy Table - and uses, too. Sub-chapter?
 	gunpowder (NYI)
 
 
-
 general second passthrough for consistency, ensuring all pages are linked whenever they're mentioned, adding additional recipes and items to the pages to enable patchoulli's 'hold ctrl to view entry' functon to work, etc.
 
 
 
 NOT YET IMPLEMENTED (circle back later)
+
+Custom recipe handlers for the Altar, Arcane Ash, and the Hellfire Forge. (Ask Way very very nicely?)
+
+ON PATCHOULI'S END 
+oredict tags for e.g. colours of glass, types of stone, levels of sentient gem. Currently waiting for https://github.com/Vazkii/Patchouli/pull/335 to be approved.
+[n.b. most of these will be made redundant by custom recipe handlers, above]
+
 Sigils:
 * magnetism - Sigil of Magnetism - Text.  NYI.
 * ice - Sigil of the Frozen Lake - Text.  NYI?
