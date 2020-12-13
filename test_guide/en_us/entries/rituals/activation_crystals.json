@@ -1,0 +1,33 @@
+{
+  "name": "Activation Crystals",
+  "icon": "bloodmagic:activationcrystalweak",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Your rituals require more than simply the correct arrangement of blocks and Sigils. An effort of will is required to open a channel from your Soul Network to the ritual, and The $(item)Activation Crystal$() will allow you to focus yourself enough to activate your rituals." 
+    },
+    {
+      "type": "crafting_altar",
+	  "heading": "Weak Activation Crystal",
+      "input": "bloodmagic:lavacrystal",
+	  "output": "bloodmagic:activationcrystalweak",
+	  "tier": "III",
+	  "LP": "10,000",
+	  "text": "This crystal should do for now."
+    },
+    {
+      "type": "text",
+      "text": "Eventually, you will find rituals that are too demanding for your current crystal. For now, you do not know what to do, save that a stronger crystal will be needed..." 
+    },
+    {
+      "type": "crafting_altar",
+	  "heading": "Awakened Activation Crystal",
+      "input": "minecraft:barrier",
+	  "output": "bloodmagic:activationcrystalawakened",
+	  "tier": "???",
+	  "LP": "Lots",
+	  "text": "NOT YET IMPLEMENTED. (Unless it is. Then I forgot to update this. Sorry!)"
+    }
+  ]
+}

@@ -10,6 +10,38 @@
     {
       "type": "text",
       "text": "$(li)$(item)Imbued Slates$() can be created in a Tier 3 altar from a $(item)Reinforced Slate$() and 5,000 LP. $(li)$(item)Demonic Slates$() can be created in a Tier 4 altar from a $(item)Imbued Slate$() and 15,000 LP. $(li)$(item)Etherial Slates$() aren't currently implemented by default, but may be if you're playing in a modpack. Check JEI for details."
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Blank Slate",
+      "input": "minecraft:stone",
+	  "output": "bloodmagic:blankslate",
+	  "tier": "I",
+	  "LP": "1,000"
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Reinforced Slate",
+      "input": "bloodmagic:blankslate",
+	  "output": "bloodmagic:reinforcedslate",
+	  "tier": "II",
+	  "LP": "2,000"
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Imbued Slate",
+      "input": "bloodmagic:reinforcedslate",
+	  "output": "bloodmagic:infusedslate",
+	  "tier": "III",
+	  "LP": "5,000"
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Demonic Slate",
+      "input": "bloodmagic:infusedslate",
+	  "output": "bloodmagic:demonslate",
+	  "tier": "IV",
+	  "LP": "15,000"
     }
   ]
 }

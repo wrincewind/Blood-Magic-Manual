@@ -1,0 +1,36 @@
+{
+  "name": "Living Equipment Basics",
+  "icon": "bloodmagic:reagentbinding",
+  "category": "living_equipment",
+  "priority": "true",
+  "pages": [
+    {
+      "type": "text",
+      "text": "To create $(item)Living Equipment$(), you will first need $(item)Iron Armor$() (or $(item)Iron Armour$(), if you prefer), some $(l:alchemy_array/arcane_ash)Arcane Ash$(), and some $(item)Binding Reagent$(). You'll also need at least a $(l:demon_will/soul_gem)Common Tartaric Gem$() in order to hold the $(item)Demon Will$() required."
+    },
+	{
+      "type": "crafting_soulforge",
+	  "heading": "Binding Reagent",
+      "input1": "minecraft:glowstone_dust",
+	  "input2": "minecraft:redstone",
+	  "input3": "minecraft:gunpowder",
+	  "input4": "minecraft:gold_nugget",
+	  "output": "bloodmagic:reagentbinding",
+	  "willrequired": "400",
+	  "willdrain": "10",
+	  "text": "It clings to me tightly..."
+    },
+    {
+   	  "type": "text",
+   	  "text": "as with any other Alchemy Array, right click the top of the ground with the $(item)Arcane Ashes$() and apply the $(item)Binding Reagent$(). Then place in your $(item)Iron Helmet$(), $(item)Iron Chestplate$(), $(item)Iron Leggings$() or $(item)Iron Boots$(), stand back, and watch the show.$(br2) Living Equipment starts off equivalent to Iron, but it has $(item)Upgrade Points$() that can, with care, be spent to train it in specific ways. It starts with 100, but there may be ways to surpass this limitation..."
+   	},
+    {
+      "type": "crafting_array",
+      "heading": "Ritual of Binding",
+      "input": "bloodmagic:reagentbinding",
+      "slate": "minecraft:iron_helmet",
+      "output": "bloodmagic:livinghelmet",
+      "text": "It's alive, all right... and it's learning from me. I'd best be careful what I teach it. $(br2)I can keep a closer eye on what it's learned so far by holding shift when I look at it."
+    }
+  ]
+}

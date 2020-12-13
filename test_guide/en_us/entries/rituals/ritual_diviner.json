@@ -1,0 +1,67 @@
+{
+  "name": "The Ritual Diviner",
+  "icon": "bloodmagic:ritualdiviner",
+  "category": "rituals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Crafting rituals is an intricate business; Even if you have the correct $(item)Inscription Tools$(), you can't just slap runic inscriptions down any old how and expect things to happen. Luckily, the $(item)Ritual Diviner$() is here to help." 
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:ritual_diviner_0"
+    },
+	{
+	  "type": "text",
+	  "text": "The base Ritual Diviner requires one of each $(item)Elemental Inscription Tool$() for its construction, and thus a tier 3 $(l:altar/bloodaltar)Blood Altar$(/l). The four base Elemental Inscription Tools can be crafted in your Altar for 1,000 LP each, as defined on the following pages. You can also use these tools to inscribe runes by hand, but this should only seriously be used for decorative purposes, as it is both slow and inaccurate."
+	},
+	{
+	  "type": "text",
+	  "text": "There is also an augmented version of the Ritual Diviner, for creating more powerful rituals."
+	},
+	{
+      "type": "crafting",
+      "recipe": "bloodmagic:ritual_diviner_1"
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Inscription Tool: Air",
+      "input": "minecraft:ghast_tear",
+	  "output": "bloodmagic:airscribetool",
+	  "tier": "III",
+	  "LP": "1,000"
+    },
+		{
+      "type": "crafting_altar",
+	  "heading": "Inscription Tool: Fire",
+      "input": "minecraft:magma_cream",
+	  "output": "bloodmagic:firescribetool",
+	  "tier": "III",
+	  "LP": "1,000"
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Inscription Tool: Water",
+      "input": "minecraft:lapis_block",
+	  "output": "bloodmagic:waterscribetool",
+	  "tier": "III",
+	  "LP": "1,000"
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Inscription Tool: Earth",
+      "input": "minecraft:obsidian",
+	  "output": "bloodmagic:earthscribetool",
+	  "tier": "III",
+	  "LP": "1,000"
+    },
+	{
+      "type": "crafting_altar",
+	  "heading": "Inscription Tool: Dusk",
+      "input": "minecraft:coal_block",
+	  "output": "bloodmagic:duskscribetool",
+	  "tier": "IV",
+	  "LP": "2,000"
+    }
+  ]
+}

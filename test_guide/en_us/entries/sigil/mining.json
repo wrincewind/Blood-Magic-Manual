@@ -23,6 +23,18 @@
       "input": "bloodmagic:reagentfastminer",
       "slate": "bloodmagic:reinforcedslate",
       "output": "bloodmagic:miningsigil"
+    },
+	{
+      "type": "crafting_soulforge",
+	  "heading": "Mining Reagent",
+      "input1": "minecraft:iron_pickaxe",
+	  "input2": "minecraft:iron_axe",
+	  "input3": "minecraft:iron_shovel",
+	  "input4": "minecraft:gunpowder",
+	  "output": "bloodmagic:reagentfastminer",
+	  "willrequired": "128",
+	  "willdrain": "20",
+	  "text": "$(italic)The walls seem weaker when I hold it..."
     }
   ]
 }

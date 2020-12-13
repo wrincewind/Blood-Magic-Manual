@@ -1,6 +1,0 @@
-{
-  "name": "Demon Will",
-  "description": "$(item)Demon Will$() is your gateway into Blood Magic. Once you have gathered some with a $(l:demonwill/soulsnare)$(item)Soul Snare$(/l), you will be able to craft your first $(l:alchemyarray/arcaneash)$(item)Arcane Ashes$(), a $(l:demonwill/soulgem)$(item)Petty Tartaric Gem$() and a $(l:demonwill/sentientsword)$(item)Sentient Sword$(/l)$().",
-  "icon": "bloodmagic:basemonstersoul",
-  "sortnum": 1
-}

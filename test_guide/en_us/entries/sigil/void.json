@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "[WIP Notes]$(br2)Removes fluids from the world."
+      "text": "The $(item)Void sigil$(), when right-clicked on any fluid, will destroy it at a cost of 50LP per block. Good for clearing out irksome lava flows without all that tedious placing and breaking of individual blocks."
     },
     {
       "type": "crafting_array",
@@ -13,7 +13,19 @@
       "input": "bloodmagic:reagentvoid",
       "slate": "bloodmagic:reinforcedslate",
       "output": "bloodmagic:voidsigil",
-      "text": "Better than a Swiffer\u00AE!"
+      "text": "$(italic)Better than a Swiffer\u00AE!"
+    },
+	{
+      "type": "crafting_soulforge",
+	  "heading": "Void Reagent",
+      "input1": "minecraft:bucket",
+	  "input2": "minecraft:string",
+	  "input3": "minecraft:string",
+	  "input4": "minecraft:gunpowder",
+	  "output": "bloodmagic:reagentvoid",
+	  "willrequired": "64",
+	  "willdrain": "10",
+	  "text": "$(italic)It feels like i'm holding nothing at all..."
     }
   ]
 }

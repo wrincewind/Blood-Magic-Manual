@@ -3,7 +3,20 @@
   "subtitle": "Alchemical Wizardry",
   "landing_text": "guide.bloodmagic.landing_text",
   "book_texture": "patchouli:textures/gui/book_red.png",
+  "filler_texture": "bloodmagic:images/guide_page_filler_texture.png",
   "creative_tab": "bloodmagictab",
   "model": "bloodmagic:book",
-  "show_progress": true
+  "show_progress": true,
+  "macros": {
+	"$(water)": "$(#0000aa)",
+	"$(air)": "$(#aaaa00)",
+	"$(fire)": "$(#aa0000)",
+	"$(earth)": "$(#00aa00)",
+	"$(blank)": "$(#888888)",
+	"$(steadfast)": "$(#0000aa)",
+	"$(destructive)": "$(#aaaa00)",
+	"$(vengeful)": "$(#aa0000)",
+	"$(corrosive)": "$(#00aa00)",
+	"$(raw)": "$(#36C6C6)"
+	}
 }

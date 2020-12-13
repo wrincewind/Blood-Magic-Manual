@@ -23,7 +23,18 @@
       "input": "bloodmagic:reagentwater",
       "slate": "bloodmagic:blankslate",
       "output": "bloodmagic:watersigil",
-      "text": " $(o)Infinite water, anyone?"
+      "text": "$(italic)Infinite water, anyone?"
+    },
+	{
+      "type": "crafting_soulforge",
+	  "heading": "Water Reagent",
+      "input1": "minecraft:sugar",
+	  "input2": "minecraft:water_bucket",
+	  "input3": "minecraft:water_bucket",
+	  "output": "bloodmagic:reagentwater",
+	  "willrequired": "10",
+	  "willdrain": "30",
+	  "text": "$(italic)It feels clammy to the touch..."
     }
   ]
 }
