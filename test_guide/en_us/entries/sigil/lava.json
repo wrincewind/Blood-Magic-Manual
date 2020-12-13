@@ -32,6 +32,7 @@
 	  "input2": "minecraft:redstone",
 	  "input3": "minecraft:cobblestone",
 	  "input4": "minecraft:coal_block",
+      "will": "bloodmagic:soulgempetty",
 	  "output": "bloodmagic:reagentlava",
 	  "willrequired": "32",
 	  "willdrain": "10",

@@ -22,6 +22,7 @@
 	  "input2": "minecraft:feather",
 	  "input3": "minecraft:feather",
 	  "input4": "",
+      "will": "bloodmagic:soulgemlesser",
 	  "output": "bloodmagic:reagentair",
 	  "willrequired": "128",
 	  "willdrain": "20",

@@ -15,6 +15,7 @@
 	  "input2": "minecraft:redstone",
 	  "input3": "minecraft:gunpowder",
 	  "input4": "minecraft:gold_nugget",
+      "will": "bloodmagic:soulgemcommon",
 	  "output": "bloodmagic:reagentbinding",
 	  "willrequired": "400",
 	  "willdrain": "10",

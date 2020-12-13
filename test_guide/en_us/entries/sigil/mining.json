@@ -31,6 +31,7 @@
 	  "input2": "minecraft:iron_axe",
 	  "input3": "minecraft:iron_shovel",
 	  "input4": "minecraft:gunpowder",
+      "will": "bloodmagic:soulgemlesser",
 	  "output": "bloodmagic:reagentfastminer",
 	  "willrequired": "128",
 	  "willdrain": "20",

@@ -8,39 +8,39 @@
     },
     {
       "type": "image",
-      "image": "bloodmagic:images/crafting/bloodaltar.png",
+      "image": "bloodmagic:textures/gui/patchouli_book/crafting.png",
 	  
-      "x": 7,
-      "y": 2,
+      "x": 9,
+      "y": 4,
       "u": 0,
-      "v": 0,
+      "v": 51,
       "texture_width": 128,
       "texture_height": 256,
-      "width": 100,
-      "height": 62
+      "width": 98,
+      "height": 60
     },
     {
       "type": "item",
       "item": "#input",
-      "x": 31,
-      "y": 7
+      "x": 30,
+      "y": 8
     },
     {
       "type": "item",
       "item": "#output",
-      "x": 88,
-      "y": 26
+      "x": 87,
+      "y": 27
     },
     {
       "type": "text",
       "text": "Tier: #tier# $(br)LP: #LP#",
-      "x": 60,
+      "x": 59,
 	  "y": 5
     },
     {
       "type": "text",
       "text": "#text",
-      "y": 69
+      "y": 67
     }
   ]
 }
