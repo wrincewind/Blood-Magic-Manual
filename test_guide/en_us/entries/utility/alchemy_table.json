@@ -1,0 +1,25 @@
+{
+  "name": "Alchemy Table",
+  "icon": "bloodmagic:alchemytable",
+  "category": "utility",
+  "pages": [
+    {
+      "type": "text",
+      "text": "VT's thoughts while making a custom Template.$(li)Try to use Recipe IDs rather than hard-coding.$(li)Tool-Tip areas for nicer visuals.$(li)I want to make significant changes to the soulforge recipe outline; the text is easy to read, but currently overlaps when the numbers get big.$(li)'Drawn' texture for Blood Altar?"
+    },
+	{
+      "type": "crafting_alchemy_table",
+	  "heading_a": "Leather",
+      "input_a1": "minecraft:rotten_flesh",
+      "input_a2": "minecraft:rotten_flesh",
+      "input_a3": "minecraft:rotten_flesh",
+      "input_a4": "minecraft:rotten_flesh",
+      "input_a5": "minecraft:flint",
+      "input_a6": "minecraft:water_bucket",
+      "orb_a": "bloodmagic:weakbloodorb",
+      "output_a": "minecraft:leather",
+      "heading_b": "[code would probably...",
+      "heading_c": "...be much better.]"
+    }
+  ]
+}
