@@ -8,18 +8,12 @@
       "text": "Throws you in the direction you're facing, at a cost of 50 LP per use. Note that this does not provide any sort of Feather Falling effect, so be careful when landing! A good way to get around quickly, albeit with some risk. Many an unwary mage has met their end by smashing themselves into the ground."
     },
     {
-      "type": "crafting_array",
-      "heading": "Air Sigil",
-      "input": "bloodmagic:reagentair",
-      "slate": "bloodmagic:reinforcedslate",
-      "output": "bloodmagic:airsigil",
+      "type": "crafting_array_and_forge",
+      "heading_forge": "Air Reagent",
+      "recipe_forge": "bloodmagic:soulforge/reagent_air",
+      "heading_array": "Air Sigil",
+      "recipe_array": "bloodmagic:array/airsigil",
       "text": "$(italic)I feel lighter already..."
-    },
-    {
-      "type": "crafting_soulforge",
-	  "heading": "Air Reagent",
-      "recipe": "bloodmagic:soulforge/reagent_air",
-	  "text": "$(italic)It almost floats from my grasp..."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "processor": "wayoftime.bloodmagic.compat.patchouli.processors.AltarProcessor",
+  "processor": "wayoftime.bloodmagic.compat.patchouli.processors.BloodAltarProcessor",
   "components": [
     {
       "type": "header",
@@ -33,7 +33,7 @@
     },
     {
       "type": "text",
-      "text": "Tier: #tier# $(br)LP: #LP#",
+      "text": "Tier: #tier# $(br)LP: #lp#",
       "x": 59,
 	  "y": 5
     },

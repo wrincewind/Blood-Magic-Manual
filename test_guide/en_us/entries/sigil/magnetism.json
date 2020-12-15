@@ -8,17 +8,11 @@
       "text": "[WIP Notes]$(br)[Not Yet Implemented]$(br2)Attacts items in the world towards the holder for pickup."
     },
     {
-      "type": "crafting_array",
-      "heading": "Sigil of Magnetism",
-      "input": "bloodmagic:reagentmagnetism",
-      "slate": "bloodmagic:infusedslate",
-      "output": "bloodmagic:sigilofmagnetism"
-    },
-	{
-      "type": "crafting_soulforge",
-	  "heading": "Magnetism Reagent",
-      "recipe": "bloodmagic:soulforge/reagent_magnetism",
-	  "text": "$(italic)It tugs gently northwards..."
+      "type": "crafting_array_and_forge",
+      "heading_forge": "Magnetism Reagent",
+      "recipe_forge": "bloodmagic:soulforge/reagent_magnetism",
+      "heading_array": "Sigil of Magnetism",
+      "recipe_array": "bloodmagic:array/magnetismsigil"
     }
   ]
 }

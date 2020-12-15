@@ -21,9 +21,7 @@
     {
       "type": "crafting_array",
       "heading": "Ritual of Binding",
-      "input": "bloodmagic:reagentbinding",
-      "slate": "minecraft:iron_helmet",
-      "output": "bloodmagic:livinghelmet",
+      "recipe": "bloodmagic:array/living_helmet",
       "text": "It's alive, all right... and it's learning from me. I'd best be careful what I teach it. $(br2)I can keep a closer eye on what it's learned so far by holding shift when I look at it."
     }
   ]

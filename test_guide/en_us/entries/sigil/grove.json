@@ -23,17 +23,11 @@
    	  "text": "If you right click on a block that is $(2)IGrowable$(), it will apply the bonemeal effect while consuming 150LP.$(br2)However, if you shift-right-click the sigil in the air, the sigil will light up to indicate that it is activated, and will consume 150LP every 10 seconds. Every block in a 7x7x5 high volume centered on the player will have a growth tick applied to it. Good for farming those taters!"
    	},
     {
-      "type": "crafting_array",
-      "heading": "Sigil of the Green Grove",
-      "input": "bloodmagic:reagentgrowth",
-      "slate": "bloodmagic:reinforcedslate",
-      "output": "bloodmagic:growthsigil"
-    },
-	{
-      "type": "crafting_soulforge",
-	  "heading": "Growth Reagent",
-      "recipe": "bloodmagic:soulforge/reagent_growth",
-	  "text": "$(italic)It pulses with the power of spring..."
+      "type": "crafting_array_and_forge",
+      "heading_forge": "Growth Reagent",
+      "recipe_forge": "bloodmagic:soulforge/reagent_growth",
+      "heading_array": "Sigil of the Green Grove",
+      "recipe_array": "bloodmagic:array/growthsigil"
     }
   ]
 }
