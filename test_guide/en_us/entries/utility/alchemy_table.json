@@ -5,21 +5,32 @@
   "pages": [
     {
       "type": "text",
-      "text": "VT's thoughts while making a custom Template.$(li)Try to use Recipe IDs rather than hard-coding.$(li)Tool-Tip areas for nicer visuals.$(li)I want to make significant changes to the soulforge recipe outline; the text is easy to read, but currently overlaps when the numbers get big.$(li)'Drawn' texture for Blood Altar?"
+      "text": "Wrince, here's a few more pages you can work on!"
     },
 	{
       "type": "crafting_alchemy_table",
-	  "heading_a": "Leather",
-      "input_a1": "minecraft:rotten_flesh",
-      "input_a2": "minecraft:rotten_flesh",
-      "input_a3": "minecraft:rotten_flesh",
-      "input_a4": "minecraft:rotten_flesh",
-      "input_a5": "minecraft:flint",
-      "input_a6": "minecraft:water_bucket",
-      "orb_a": "bloodmagic:weakbloodorb",
-      "output_a": "minecraft:leather",
-      "heading_b": "[code would probably...",
-      "heading_c": "...be much better.]"
+      "recipes": ["bloodmagic:alchemytable/basic_cutting_fluid"],
+	  "heading1": "Basic Cutting Fluid"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "recipes": [
+        "bloodmagic:alchemytable/bread",
+        "bloodmagic:alchemytable/clay_from_sand"
+        ],
+	  "heading1": "Bread",
+      "heading2": "Clay from Sand"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "recipes": [
+        "bloodmagic:alchemytable/explosive_powder",
+        "bloodmagic:alchemytable/flint_from_gravel",
+        "bloodmagic:alchemytable/grass_block"
+        ],
+	  "heading1": "Leather from Flesh",
+      "heading2": "Flint from Gravel",
+      "heading3": "Grass Block"
     }
   ]
 }
