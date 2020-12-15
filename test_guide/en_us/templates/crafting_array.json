@@ -1,4 +1,5 @@
 {
+  "processor": "wayoftime.bloodmagic.compat.patchouli.processors.AlchemyArrayProcessor",
   "components": [
     {
       "type": "header",
@@ -9,7 +10,6 @@
     {
       "type": "image",
       "image": "bloodmagic:textures/gui/patchouli_book/crafting.png",
-	  
       "x": 11,
       "y": 4,
       "u": 0,
@@ -21,13 +21,13 @@
     },
     {
       "type": "item",
-      "item": "#input",
+      "item": "#baseinput",
       "x": 28,
       "y": 22
     },
 	{
       "type": "item",
-      "item": "#slate",
+      "item": "#addedinput",
       "x": 63,
       "y": 10
     },

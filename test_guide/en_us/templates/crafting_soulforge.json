@@ -1,4 +1,5 @@
 {
+  "processor": "wayoftime.bloodmagic.compat.patchouli.processors.TartaricForgeProcessor",
   "components": [
     {
       "type": "header",

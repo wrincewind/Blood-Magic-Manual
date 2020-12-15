@@ -18,24 +18,11 @@
    	  "text": "The Sigil of the Fast Miner's array, plus its primary uses."
    	},
     {
-      "type": "crafting_array",
-      "heading": "Sigil of the Fast Miner",
-      "input": "bloodmagic:reagentfastminer",
-      "slate": "bloodmagic:reinforcedslate",
-      "output": "bloodmagic:miningsigil"
-    },
-	{
-      "type": "crafting_soulforge",
-	  "heading": "Mining Reagent",
-      "input1": "minecraft:iron_pickaxe",
-	  "input2": "minecraft:iron_axe",
-	  "input3": "minecraft:iron_shovel",
-	  "input4": "minecraft:gunpowder",
-      "will": "bloodmagic:soulgemlesser",
-	  "output": "bloodmagic:reagentfastminer",
-	  "willrequired": "128",
-	  "willdrain": "20",
-	  "text": "$(italic)The walls seem weaker when I hold it..."
+      "type": "crafting_array_and_forge",
+      "heading_forge": "Mining Reagent",
+      "recipe_forge": "bloodmagic:soulforge/reagent_fastminer",
+      "heading_array": "Sigil of the Fast Miner",
+      "recipe_array": "bloodmagic:array/fastminersigil"
     }
   ]
 }

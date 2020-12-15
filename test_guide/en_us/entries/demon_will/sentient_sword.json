@@ -10,14 +10,7 @@
     {
       "type": "crafting_soulforge",
 	  "heading": "Sentient Sword",
-      "input1": "bloodmagic:soulgempetty",
-	  "input2": "minecraft:iron_sword",
-	  "input3": "",
-	  "input4": "",
-      "will": "bloodmagic:basemonstersoul",
-	  "output": "bloodmagic:soulsword",
-	  "willrequired": "0",
-	  "willdrain": "0",
+      "recipe": "bloodmagic:soulforge/sentientsword",
 	  "text": "This sword will serve you well."
     }
   ]

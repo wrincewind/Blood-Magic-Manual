@@ -10,10 +10,7 @@
     {
       "type": "crafting_altar",
 	  "heading": "Weak Activation Crystal",
-      "input": "bloodmagic:lavacrystal",
-	  "output": "bloodmagic:activationcrystalweak",
-	  "tier": "III",
-	  "LP": "10,000",
+      "recipe": "bloodmagic:weak_activation_crystal",
 	  "text": "This crystal should do for now."
     },
     {
@@ -21,7 +18,7 @@
       "text": "Eventually, you will find rituals that are too demanding for your current crystal. For now, you do not know what to do, save that a stronger crystal will be needed..." 
     },
     {
-      "type": "crafting_altar",
+      "type": "text",
 	  "heading": "Awakened Activation Crystal",
       "input": "minecraft:barrier",
 	  "output": "bloodmagic:activationcrystalawakened",

@@ -11,14 +11,7 @@
 	{
       "type": "crafting_soulforge",
 	  "heading": "Binding Reagent",
-      "input1": "minecraft:glowstone_dust",
-	  "input2": "minecraft:redstone",
-	  "input3": "minecraft:gunpowder",
-	  "input4": "minecraft:gold_nugget",
-      "will": "bloodmagic:soulgemcommon",
-	  "output": "bloodmagic:reagentbinding",
-	  "willrequired": "400",
-	  "willdrain": "10",
+      "recipe": "bloodmagic:soulforge/reagent_binding",
 	  "text": "It clings to me tightly..."
     },
     {
@@ -28,9 +21,7 @@
     {
       "type": "crafting_array",
       "heading": "Ritual of Binding",
-      "input": "bloodmagic:reagentbinding",
-      "slate": "minecraft:iron_helmet",
-      "output": "bloodmagic:livinghelmet",
+      "recipe": "bloodmagic:array/living_helmet",
       "text": "It's alive, all right... and it's learning from me. I'd best be careful what I teach it. $(br2)I can keep a closer eye on what it's learned so far by holding shift when I look at it."
     }
   ]

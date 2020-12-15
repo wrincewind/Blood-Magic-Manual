@@ -1,4 +1,5 @@
 {
+  "processor": "wayoftime.bloodmagic.compat.patchouli.processors.BloodAltarProcessor",
   "components": [
     {
       "type": "header",
@@ -9,7 +10,6 @@
     {
       "type": "image",
       "image": "bloodmagic:textures/gui/patchouli_book/crafting.png",
-	  
       "x": 9,
       "y": 4,
       "u": 0,
@@ -33,7 +33,7 @@
     },
     {
       "type": "text",
-      "text": "Tier: #tier# $(br)LP: #LP#",
+      "text": "Tier: #tier# $(br)LP: #lp#",
       "x": 59,
 	  "y": 5
     },

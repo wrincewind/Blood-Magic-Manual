@@ -18,24 +18,12 @@
    	  "text": "The Water Sigil, next to its crafting array, plus its primary use."
    	},
     {
-      "type": "crafting_array",
-      "heading": "Water Sigil",
-      "input": "bloodmagic:reagentwater",
-      "slate": "bloodmagic:blankslate",
-      "output": "bloodmagic:watersigil",
+      "type": "crafting_array_and_forge",
+      "heading_forge": "Water Reagent",
+      "recipe_forge": "bloodmagic:soulforge/reagent_water",
+      "heading_array": "Water Sigil",
+      "recipe_array": "bloodmagic:array/watersigil",
       "text": "$(italic)Infinite water, anyone?"
-    },
-	{
-      "type": "crafting_soulforge",
-	  "heading": "Water Reagent",
-      "input1": "minecraft:sugar",
-	  "input2": "minecraft:water_bucket",
-	  "input3": "minecraft:water_bucket",
-      "will": "bloodmagic:soulgempetty",
-	  "output": "bloodmagic:reagentwater",
-	  "willrequired": "10",
-	  "willdrain": "30",
-	  "text": "$(italic)It feels clammy to the touch..."
     }
   ]
 }

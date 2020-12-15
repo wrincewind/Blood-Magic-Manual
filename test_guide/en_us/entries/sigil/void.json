@@ -8,25 +8,12 @@
       "text": "The $(item)Void sigil$(), when right-clicked on any fluid, will destroy it at a cost of 50LP per block. Good for clearing out irksome lava flows without all that tedious placing and breaking of individual blocks."
     },
     {
-      "type": "crafting_array",
-      "heading": "Void Sigil",
-      "input": "bloodmagic:reagentvoid",
-      "slate": "bloodmagic:reinforcedslate",
-      "output": "bloodmagic:voidsigil",
+      "type": "crafting_array_and_forge",
+      "heading_forge": "Void Reagent",
+      "recipe_forge": "bloodmagic:soulforge/reagent_void",
+      "heading_array": "Void Sigil",
+      "recipe_array": "bloodmagic:array/voidsigil",
       "text": "$(italic)Better than a Swiffer\u00AE!"
-    },
-	{
-      "type": "crafting_soulforge",
-	  "heading": "Void Reagent",
-      "input1": "minecraft:bucket",
-	  "input2": "minecraft:string",
-	  "input3": "minecraft:string",
-	  "input4": "minecraft:gunpowder",
-      "will": "bloodmagic:soulgempetty",
-	  "output": "bloodmagic:reagentvoid",
-	  "willrequired": "64",
-	  "willdrain": "10",
-	  "text": "$(italic)It feels like i'm holding nothing at all..."
     }
   ]
 }

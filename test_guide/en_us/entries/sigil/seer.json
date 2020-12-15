@@ -8,11 +8,11 @@
       "text": "The $(item)Seer's Sigil$() is a more advanced form of the $(l:sigil/divination)Divination Sigil$().  Alongside showing the amount of LP in the bound player's $(l:altar/soulnetwork)Soul Network$(/l), it also shows more information when looking at a $(l:altar/bloodaltar)Blood Altar$(/l)."
     },
     {
-      "type": "crafting_array",
-      "heading": "Seer's Sigil",
-      "input": "bloodmagic:reagentsight",
-      "slate": "bloodmagic:reinforcedslate",
-      "output": "bloodmagic:seersigil",
+      "type": "crafting_array_and_forge",
+      "heading_forge": "Sight Reagent",
+      "recipe_forge": "bloodmagic:soulforge/reagent_sight",
+      "heading_array": "Seer's Sigil",
+      "recipe_array": "bloodmagic:array/seersigil",
       "text": "$(italic)When seeing all is not enough"
     },
 	{
@@ -27,19 +27,6 @@
       "title": "Seer's Sigil Display",
       "border": true,
       "text": "The Seer's Sigil's displays this HUD when you are looking at a blood Altar."
-    },
-	{
-      "type": "crafting_soulforge",
-	  "heading": "Sight Reagent",
-      "input1": "minecraft:glowstone_dust",
-	  "input2": "minecraft:glass",
-	  "input3": "minecraft:glass",
-	  "input4": "bloodmagic:divinationsigil",
-      "will": "bloodmagic:soulgempetty",
-	  "output": "bloodmagic:reagentsight",
-	  "willrequired": "64",
-	  "willdrain": "0",
-	  "text": "$(italic)I can feel the knowledge trapped within..."
     }
   ]
 }
