@@ -10,14 +10,7 @@
 	{
       "type": "crafting_soulforge",
 	  "heading": "Demon Crucible",
-      "input1": "minecraft:cauldron",
-	  "input2": "minecraft:stone",
-	  "input3": "minecraft:lapis_lazuli",
-	  "input4": "minecraft:diamond",
-      "will": "bloodmagic:soulgemcommon",
-	  "output": "bloodmagic:demoncrucible",
-	  "willrequired": "400",
-	  "willdrain": "100",
+      "recipe": "bloodmagic:soulforge/demon_crucible",
 	  "text": "This will burn $(l:demon_will/demon_will)$(item)Demon Will$() and release it into the atmosphere. Put a charged $(l:demon_will/soul_gem)$(item)Tartaric Gem$() into it and let it run."
     },
 	{
@@ -36,14 +29,7 @@
 	{
       "type": "crafting_soulforge",
 	  "heading": "Demon Crystallizer",
-      "input1": "bloodmagic:soulforge",
-	  "input2": "minecraft:stone",
-	  "input3": "minecraft:lapis_lazuli",
-	  "input4": "minecraft:glass",
-      "will": "bloodmagic:soulgemcommon",
-	  "output": "bloodmagic:demoncrystallizer",
-	  "willrequired": "500",
-	  "willdrain": "100",
+      "recipe": "bloodmagic:soulforge/demon_crystallizer",
 	  "text": "This will slowly consume $(l:demon_will/demon_will)$(item)Demon Will$() from the atmosphere to produce $(item)Will Crystals$(). The first spire costs about 100 will to form, and all subsequent spires cost roughly half that. The largest $(item)Crystal Cluster$() can be up to 7 spires."
     },
     {

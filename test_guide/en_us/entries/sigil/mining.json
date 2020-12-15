@@ -27,14 +27,7 @@
 	{
       "type": "crafting_soulforge",
 	  "heading": "Mining Reagent",
-      "input1": "minecraft:iron_pickaxe",
-	  "input2": "minecraft:iron_axe",
-	  "input3": "minecraft:iron_shovel",
-	  "input4": "minecraft:gunpowder",
-      "will": "bloodmagic:soulgemlesser",
-	  "output": "bloodmagic:reagentfastminer",
-	  "willrequired": "128",
-	  "willdrain": "20",
+      "recipe": "bloodmagic:soulforge/reagent_fastminer",
 	  "text": "$(italic)The walls seem weaker when I hold it..."
     }
   ]

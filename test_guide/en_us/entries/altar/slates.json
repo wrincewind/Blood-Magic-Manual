@@ -14,34 +14,22 @@
 	{
       "type": "crafting_altar",
 	  "heading": "Blank Slate",
-      "input": "minecraft:stone",
-	  "output": "bloodmagic:blankslate",
-	  "tier": "I",
-	  "LP": "1,000"
+      "recipe": "bloodmagic:altar/slate"
     },
 	{
       "type": "crafting_altar",
 	  "heading": "Reinforced Slate",
-      "input": "bloodmagic:blankslate",
-	  "output": "bloodmagic:reinforcedslate",
-	  "tier": "II",
-	  "LP": "2,000"
+      "recipe": "bloodmagic:altar/reinforcedslate"
     },
 	{
       "type": "crafting_altar",
 	  "heading": "Imbued Slate",
-      "input": "bloodmagic:reinforcedslate",
-	  "output": "bloodmagic:infusedslate",
-	  "tier": "III",
-	  "LP": "5,000"
+      "recipe": "bloodmagic:altar/imbuedslate"
     },
 	{
       "type": "crafting_altar",
 	  "heading": "Demonic Slate",
-      "input": "bloodmagic:infusedslate",
-	  "output": "bloodmagic:demonslate",
-	  "tier": "IV",
-	  "LP": "15,000"
+      "recipe": "bloodmagic:altar/demonicslate"
     }
   ]
 }

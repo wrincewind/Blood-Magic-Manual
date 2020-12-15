@@ -18,14 +18,7 @@
 	{
       "type": "crafting_soulforge",
 	  "heading": "Void Reagent",
-      "input1": "minecraft:bucket",
-	  "input2": "minecraft:string",
-	  "input3": "minecraft:string",
-	  "input4": "minecraft:gunpowder",
-      "will": "bloodmagic:soulgempetty",
-	  "output": "bloodmagic:reagentvoid",
-	  "willrequired": "64",
-	  "willdrain": "10",
+      "recipe": "bloodmagic:soulforge/reagent_void",
 	  "text": "$(italic)It feels like i'm holding nothing at all..."
     }
   ]

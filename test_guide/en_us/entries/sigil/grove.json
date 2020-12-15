@@ -32,14 +32,7 @@
 	{
       "type": "crafting_soulforge",
 	  "heading": "Growth Reagent",
-      "input1": "minecraft:oak_sapling",
-	  "input2": "minecraft:oak_sapling",
-	  "input3": "minecraft:sugar_cane",
-	  "input4": "minecraft:sugar",
-      "will": "bloodmagic:soulgemlesser",
-	  "output": "bloodmagic:reagentgrowth",
-	  "willrequired": "128",
-	  "willdrain": "20",
+      "recipe": "bloodmagic:soulforge/reagent_growth",
 	  "text": "$(italic)It pulses with the power of spring..."
     }
   ]

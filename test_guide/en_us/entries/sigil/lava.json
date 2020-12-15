@@ -28,14 +28,7 @@
 	{
       "type": "crafting_soulforge",
 	  "heading": "Lava Reagent",
-      "input1": "minecraft:lava_bucket",
-	  "input2": "minecraft:redstone",
-	  "input3": "minecraft:cobblestone",
-	  "input4": "minecraft:coal_block",
-      "will": "bloodmagic:soulgempetty",
-	  "output": "bloodmagic:reagentlava",
-	  "willrequired": "32",
-	  "willdrain": "10",
+      "recipe": "bloodmagic:soulforge/reagent_lava",
 	  "text": "$(italic)It almost hurts to hold..."
     }
   ]

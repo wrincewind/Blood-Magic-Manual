@@ -10,14 +10,7 @@
     {
       "type": "crafting_soulforge",
 	  "heading": "Petty Tartaric Gem",
-      "input1": "minecraft:redstone",
-	  "input2": "minecraft:gold_ingot",
-	  "input3": "minecraft:glass",
-	  "input4": "minecraft:lapis_lazuli",
-      "will": "bloodmagic:basemonstersoul",
-	  "output": "bloodmagic:soulgempetty",
-	  "willrequired": "1",
-	  "willdrain": "1",
+      "recipe": "bloodmagic:soulforge/pettytartaricgem",
 	  "text": "Your first gem will hold a maximum of 64 will. Of course, you'll have to craft two if you want to upgrade it."
     },
     {
@@ -27,14 +20,7 @@
     {
       "type": "crafting_soulforge",
 	  "heading": "Lesser Tartaric Gem",
-      "input1": "bloodmagic:soulgempetty",
-	  "input2": "minecraft:diamond",
-	  "input3": "minecraft:redstone_block",
-	  "input4": "minecraft:lapis_block",
-      "will": "bloodmagic:soulgempetty",
-	  "output": "bloodmagic:soulgemlesser",
-	  "willrequired": "60",
-	  "willdrain": "20",
+      "recipe": "bloodmagic:soulforge/lessertartaricgem",
 	  "text": "This reinforced gem can hold up to 256 will."
     },
     {
@@ -44,14 +30,7 @@
     {
       "type": "crafting_soulforge",
 	  "heading": "Common Tartaric Gem",
-      "input1": "bloodmagic:soulgemlesser",
-	  "input2": "minecraft:diamond",
-	  "input3": "minecraft:gold_block",
-	  "input4": "bloodmagic:infusedslate",
-      "will": "bloodmagic:soulgemlesser",
-	  "output": "bloodmagic:soulgemcommon",
-	  "willrequired": "240",
-	  "willdrain": "50",
+      "recipe": "bloodmagic:soulforge/commontartaricgem",
 	  "text": "This intricate gem can hold an impressive 1,024 will."
     },
     {
@@ -61,14 +40,7 @@
     {
       "type": "crafting_soulforge",
 	  "heading": "Greater Tartaric Gem",
-      "input1": "bloodmagic:soulgemcommon",
-	  "input2": "bloodmagic:demonslate",
-	  "input3": "bloodmagic:weakbloodshard",
-	  "input4": "bloodmagic:defaultcrystal",
-      "will": "bloodmagic:soulgemcommon",
-	  "output": "bloodmagic:soulgemgreater",
-	  "willrequired": "1,000",
-	  "willdrain": "100",
+      "recipe": "bloodmagic:soulforge/greatertartaricgem",
 	  "text": "This masterpiece of artifice can hold an astounding 4,096 will."
     }
   ]

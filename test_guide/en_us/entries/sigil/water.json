@@ -28,13 +28,7 @@
 	{
       "type": "crafting_soulforge",
 	  "heading": "Water Reagent",
-      "input1": "minecraft:sugar",
-	  "input2": "minecraft:water_bucket",
-	  "input3": "minecraft:water_bucket",
-      "will": "bloodmagic:soulgempetty",
-	  "output": "bloodmagic:reagentwater",
-	  "willrequired": "10",
-	  "willdrain": "30",
+      "recipe": "bloodmagic:soulforge/reagent_water",
 	  "text": "$(italic)It feels clammy to the touch..."
     }
   ]

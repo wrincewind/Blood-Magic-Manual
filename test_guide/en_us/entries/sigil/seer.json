@@ -31,14 +31,7 @@
 	{
       "type": "crafting_soulforge",
 	  "heading": "Sight Reagent",
-      "input1": "minecraft:glowstone_dust",
-	  "input2": "minecraft:glass",
-	  "input3": "minecraft:glass",
-	  "input4": "bloodmagic:divinationsigil",
-      "will": "bloodmagic:soulgempetty",
-	  "output": "bloodmagic:reagentsight",
-	  "willrequired": "64",
-	  "willdrain": "0",
+      "recipe": "bloodmagic:soulforge/reagent_sight",
 	  "text": "$(italic)I can feel the knowledge trapped within..."
     }
   ]

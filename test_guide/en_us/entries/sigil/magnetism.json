@@ -17,14 +17,7 @@
 	{
       "type": "crafting_soulforge",
 	  "heading": "Magnetism Reagent",
-      "input1": "minecraft:string",
-	  "input2": "minecraft:gold_ingot",
-	  "input3": "minecraft:gold_ingot",
-	  "input4": "minecraft:iron_block",
-      "will": "bloodmagic:soulgempetty",
-	  "output": "bloodmagic:reagentlava",
-	  "willrequired": "32",
-	  "willdrain": "10",
+      "recipe": "bloodmagic:soulforge/reagent_magnetism",
 	  "text": "$(italic)It tugs gently northwards..."
     }
   ]
