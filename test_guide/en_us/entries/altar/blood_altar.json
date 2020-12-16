@@ -46,7 +46,7 @@
     },
     {
       "type": "text",
-      "text": "The first item that you will want to craft is a $(l:altar/soulnetwork)Weak Blood Orb$(/l), which by default is a diamond plus 2000LP inside of a Tier 1 Blood Altar. All items that can be crafted by the Blood Altar can be found using Just Enough Items (JEI)."
+      "text": "The first item that you will want to craft is a $(l:altar/soul_network)Weak Blood Orb$(/l), which by default is a diamond plus 2000LP inside of a Tier 1 Blood Altar. All items that can be crafted by the Blood Altar can be found using Just Enough Items (JEI)."
     },
     {
       "type": "text",

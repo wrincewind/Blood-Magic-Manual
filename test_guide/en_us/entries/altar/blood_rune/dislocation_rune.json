@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Displacement Rune$() increases the flowrate "
+      "text": "The $(item)Displacement Rune$() increases the flowrate of LP into and out of the altar."
     },
     {
       "type": "crafting",
