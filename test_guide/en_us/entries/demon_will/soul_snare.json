@@ -15,7 +15,7 @@
     {
    	  "type": "image",
    	  "images": [
-   	  	"bloodmagic:images/entries/demon_will/soul_snare.png"
+   	  	"bloodmagic:images/entries/demon_will/snare_particles.png"
    	  ],
    	  "title": "Snare on Skeleton",
    	  "border": true,
