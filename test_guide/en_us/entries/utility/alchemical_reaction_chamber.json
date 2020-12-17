@@ -10,7 +10,9 @@
     {
       "type": "crafting_arc",
       "heading": "test",
-      "recipe": "bloodmagic:arc/netherrack_to_sulfer"
+      "recipe": "bloodmagic:arc/netherrack_to_sulfer",
+      "fluid_input": "minecraft:air",
+      "fluid_output": "minecraft:lava_bucket"
     }
   ]
 }
