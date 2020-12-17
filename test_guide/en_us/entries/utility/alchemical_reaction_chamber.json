@@ -1,0 +1,16 @@
+{
+  "name": "Alchemical Reaction Chamber",
+  "icon": "bloodmagic:alchemicalreactionchamber",
+  "category": "utility",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Wrince, here's a few more pages you can work on!"
+    },
+    {
+      "type": "crafting_arc",
+      "heading": "test",
+      "recipe": "bloodmagic:arc/netherrack_to_sulfer"
+    }
+  ]
+}

@@ -8,12 +8,12 @@
       "text": "The $(item)Seer's Sigil$() is a more advanced form of the $(l:sigil/divination)Divination Sigil$().  Alongside showing the amount of LP in the bound player's $(l:altar/soul_network)Soul Network$(/l), it also shows more information when looking at a $(l:altar/blood_altar)Blood Altar$(/l)."
     },
     {
-      "type": "crafting_array_and_forge",
-      "heading_forge": "Sight Reagent",
-      "recipe_forge": "bloodmagic:soulforge/reagent_sight",
-      "heading_array": "Seer's Sigil",
-      "recipe_array": "bloodmagic:array/seersigil",
-      "text": "$(italic)When seeing all is not enough"
+      "type": "crafting_2-step_sigil",
+      "soulforge.heading": "Sight Reagent",
+      "soulforge.recipe": "bloodmagic:soulforge/reagent_sight",
+      "array.heading": "Seer's Sigil",
+      "array.recipe": "bloodmagic:array/seersigil",
+      "array.text": "$(italic)When seeing all is not enough"
     },
 	{
       "type": "text",

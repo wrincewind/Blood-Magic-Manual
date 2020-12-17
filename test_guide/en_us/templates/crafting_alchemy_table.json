@@ -3,13 +3,12 @@
   "components": [
     {
       "type": "header",
-      "text": "#heading1",
+      "text": "#heading",
       "x": -1,
       "y": -6
     },
     {
       "type": "image",
-      "guard": "#show1",
       "image": "bloodmagic:textures/gui/patchouli_book/crafting.png",
       "x": 2,
       "y": 4,
@@ -22,57 +21,55 @@
     },
 	{
       "type": "item",
-      "guard": "#show1",
       "item": "bloodmagic:alchemytable",
       "x": 94,
       "y": 27
     },
     {
       "type": "item",
-      "item": "#input11",
+      "item": "#input1",
       "x": 6,
       "y": 8
     },
     {
       "type": "item",
-      "item": "#input12",
+      "item": "#input2",
       "x": 25,
       "y": 8
     },
     {
       "type": "item",
-      "item": "#input13",
+      "item": "#input3",
       "x": 44,
       "y": 8
     },
     {
       "type": "item",
-      "item": "#input14",
+      "item": "#input4",
       "x": 6,
       "y": 27
     },
     {
       "type": "item",
-      "item": "#input15",
+      "item": "#input5",
       "x": 25,
       "y": 27
     },
     {
       "type": "item",
-      "item": "#input16",
+      "item": "#input6",
       "x": 44,
       "y": 27
     },
     {
       "type": "item",
-      "item": "#orb1",
+      "item": "#orb",
       "x": 69,
       "y": 27
     },
     {
       "type": "tooltip",
-      "guard": "#show1",
-      "tooltip": ["Cost: #syphon1# LP", "Duration: #time1# Ticks"],
+      "tooltip": ["Cost: #syphon# LP", "Duration: #time# Ticks"],
       "x": 69,
       "y": 8,
       "width": 16,
@@ -80,196 +77,15 @@
     },
     {
       "type": "text",
-      "guard": "#show1",
       "text": "LP",
       "x": 74,
       "y": 6
     },
     {
       "type": "item",
-      "item": "#output1",
+      "item": "#output",
       "x": 94,
       "y": 8
-    },
-    {
-      "type": "header",
-      "text": "#heading2",
-      "x": -1,
-      "y": 48
-    },
-    {
-      "type": "image",
-      "guard": "#show2",
-      "image": "bloodmagic:textures/gui/patchouli_book/crafting.png",
-      "x": 2,
-      "y": 55,
-      "u": 0,
-      "v": 154,
-      "texture_width": 128,
-      "texture_height": 256,
-      "width": 112,
-      "height": 43
-    },
-    {
-      "type": "item",
-      "guard": "#show2",
-      "item": "bloodmagic:alchemytable",
-      "x": 94,
-      "y": 78
-    },
-    {
-      "type": "item",
-      "item": "#input21",
-      "x": 6,
-      "y": 59
-    },
-    {
-      "type": "item",
-      "item": "#input22",
-      "x": 25,
-      "y": 59
-    },
-    {
-      "type": "item",
-      "item": "#input23",
-      "x": 44,
-      "y": 59
-    },
-    {
-      "type": "item",
-      "item": "#input24",
-      "x": 6,
-      "y": 78
-    },
-    {
-      "type": "item",
-      "item": "#input25",
-      "x": 25,
-      "y": 78
-    },
-    {
-      "type": "item",
-      "item": "#input26",
-      "x": 44,
-      "y": 78
-    },
-    {
-      "type": "item",
-      "item": "#orb2",
-      "x": 69,
-      "y": 78
-    },
-    {
-      "type": "tooltip",
-      "guard": "#show2",
-      "tooltip": ["Cost: #syphon2# LP", "Duration: #time2# Ticks"],
-      "x": 69,
-      "y": 59,
-      "width": 16,
-      "height": 16
-    },
-    {
-      "type": "text",
-      "guard": "#show2",
-      "text": "LP",
-      "x": 74,
-      "y": 57
-    },
-    {
-      "type": "item",
-      "item": "#output2",
-      "x": 94,
-      "y": 59
-    },
-    {
-      "type": "header",
-      "text": "#heading3",
-      "x": -1,
-      "y": 98
-    },
-    {
-      "type": "image",
-      "guard": "#show3",
-      "image": "bloodmagic:textures/gui/patchouli_book/crafting.png",
-      "x": 2,
-      "y": 106,
-      "u": 0,
-      "v": 154,
-      "texture_width": 128,
-      "texture_height": 256,
-      "width": 112,
-      "height": 43
-    },
-    {
-      "type": "item",
-      "guard": "#show3",
-      "item": "bloodmagic:alchemytable",
-      "x": 94,
-      "y": 129
-    },
-    {
-      "type": "item",
-      "item": "#input31",
-      "x": 6,
-      "y": 110
-    },
-    {
-      "type": "item",
-      "item": "#input32",
-      "x": 25,
-      "y": 110
-    },
-    {
-      "type": "item",
-      "item": "#input33",
-      "x": 44,
-      "y": 110
-    },
-    {
-      "type": "item",
-      "item": "#input34",
-      "x": 6,
-      "y": 129
-    },
-    {
-      "type": "item",
-      "item": "#input35",
-      "x": 25,
-      "y": 129
-    },
-    {
-      "type": "item",
-      "item": "#input36",
-      "x": 44,
-      "y": 129
-    },
-    {
-      "type": "item",
-      "item": "#orb3",
-      "x": 69,
-      "y": 129
-    },
-    {
-      "type": "tooltip",
-      "guard": "#show3",
-      "tooltip": ["Cost: #syphon3# LP", "Duration: #time3# Ticks"],
-      "x": 69,
-      "y": 110,
-      "width": 16,
-      "height": 16
-    },
-    {
-      "type": "text",
-      "guard": "#show3",
-      "text": "LP",
-      "x": 74,
-      "y": 108
-    },
-    {
-      "type": "item",
-      "item": "#output3",
-      "x": 94,
-      "y": 110
     }
   ]
 }
