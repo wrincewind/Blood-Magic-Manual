@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Wrince, here's a few more pages you can work on!"
+      "text": "The Alchemy Table takes a little LP and a few ingredients to do some wondrous things! $(br2)Mouse over the WILL arrow for more info."
     },
 	{
       "type": "crafting_alchemy_table",

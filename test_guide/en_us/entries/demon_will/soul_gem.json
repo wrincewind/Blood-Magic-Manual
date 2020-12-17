@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "Your $(item)Lesser Tartaric Gem$() is a noted improvement, but once more you chafe under its limitations. To progress further will involve focusing on your $(l:altar/bloodaltar)$(item)Blood Altar$(), as you require the powers of an $(item)Imbued Slate$(). Combining this slate with your gem and further refining it with another $(item)Diamond$() and a $(item)Block of Gold$(), you have found a way to once again quadruple its storage capabilities."
+      "text": "Your $(item)Lesser Tartaric Gem$() is a noted improvement, but once more you chafe under its limitations. To progress further will involve focusing on your $(l:altar/blood_altar)$(item)Blood Altar$(), as you require the powers of an $(item)Imbued Slate$(). Combining this slate with your gem and further refining it with another $(item)Diamond$() and a $(item)Block of Gold$(), you have found a way to once again quadruple its storage capabilities."
     },	
     {
       "type": "crafting_soulforge",
