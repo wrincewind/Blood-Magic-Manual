@@ -5,32 +5,28 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Alchemy Table takes a little LP and a few ingredients to do some wondrous things! $(br2)Mouse over the WILL arrow for more info."
+      "text": "The Alchemy Table takes a little LP and a few ingredients to do some wondrous things! $(br2)Mouse over the LP arrow for more info."
     },
 	{
       "type": "crafting_alchemy_table",
-      "recipes": ["bloodmagic:alchemytable/basic_cutting_fluid"],
-	  "heading1": "Basic Cutting Fluid"
+      "recipe": "bloodmagic:alchemytable/basic_cutting_fluid",
+	  "heading": "Basic Cutting Fluid"
     },
     {
-      "type": "crafting_alchemy_table",
-      "recipes": [
-        "bloodmagic:alchemytable/bread",
-        "bloodmagic:alchemytable/clay_from_sand"
-        ],
-	  "heading1": "Bread",
-      "heading2": "Clay from Sand"
+      "type": "2x_crafting_alchemy_table",
+	  "a.heading": "Explosive Poweder",
+      "a.recipe": "bloodmagic:alchemytable/explosive_powder",
+      "b.heading": "Flint from Gravel",
+      "b.recipe": "bloodmagic:alchemytable/flint_from_gravel"
     },
     {
-      "type": "crafting_alchemy_table",
-      "recipes": [
-        "bloodmagic:alchemytable/explosive_powder",
-        "bloodmagic:alchemytable/flint_from_gravel",
-        "bloodmagic:alchemytable/grass_block"
-        ],
-	  "heading1": "Leather from Flesh",
-      "heading2": "Flint from Gravel",
-      "heading3": "Grass Block"
+      "type": "3x_crafting_alchemy_table",
+	  "a.heading": "Explosive Poweder",
+      "a.recipe": "bloodmagic:alchemytable/explosive_powder",
+      "b.heading": "Flint from Gravel",
+      "b.recipe": "bloodmagic:alchemytable/flint_from_gravel",
+      "c.heading": "Grass Block",
+      "c.recipe": "bloodmagic:alchemytable/grass_block"
     }
   ]
 }

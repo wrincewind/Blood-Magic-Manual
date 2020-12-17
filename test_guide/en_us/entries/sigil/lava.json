@@ -18,12 +18,12 @@
    	  "text": "The Lava Sigil, next to its crafting array, plus its primary use."
    	},
     {
-      "type": "crafting_array_and_forge",
-      "heading_forge": "Lava Reagent",
-      "recipe_forge": "bloodmagic:soulforge/reagent_lava",
-      "heading_array": "Lava Sigil",
-      "recipe_array": "bloodmagic:array/lavasigil",
-      "text": "$(italic)HOT! DO NOT EAT"
+      "type": "crafting_2-step_sigil",
+      "soulforge.heading": "Lava Reagent",
+      "soulforge.recipe": "bloodmagic:soulforge/reagent_lava",
+      "array.heading": "Lava Sigil",
+      "array.recipe": "bloodmagic:array/lavasigil",
+      "array.text": "$(italic)HOT! DO NOT EAT"
     }
   ]
 }
