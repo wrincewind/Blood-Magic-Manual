@@ -42,7 +42,7 @@
       "type": "crafting_alchemy_table",
       "heading": "Explosive Powder",
       "recipe": "bloodmagic:alchemytable/explosive_powder",
-      "text": "Explosive Powder in the ARC is used to turn Ores into Ore Fragments for 3x Ore Processing, or turn Ingots into their Sand variant.  It can also turn Netherrack into Sulfer and 5mb of Lava."
+      "text": "Explosive Powder in the ARC is used to turn Ores into Ore Fragments for 3x Ore Processing, or turn Ingots into their Sand variant.  It can also turn Netherrack into Sulfur and 5mb of Lava."
     },
     {
       "type": "3x_crafting_arc",
