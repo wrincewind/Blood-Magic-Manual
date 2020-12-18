@@ -21,7 +21,7 @@ altar/blood_altar:
     Please mention that the first 1,000 LP you sacrifice will go to an internal
     "extract" tank.  That has caused a lot of confusion in the past.  "Why is
     my Blood Altar draining?!"
-		Done, though I need to check and make sure the text doesn't flow off the edge of the page If it does i'll have to mention it elsewhere on the entry, or re-work the text.
+		Done, though thanks to text overflow i've had to mention it under the crafting recipe for the knife. 
 	
     The Altar Pillars do not have to be "solid" blocks.  I think they can be
     basically anything.  The code says "not air."
@@ -32,15 +32,14 @@ altar/blood_altar:
 
 altar/redstone_automation:
     I think this all is NYI.
-		You're right. I'll add a note at the top and put a strikethrough effect on the rest of the entry. :p
-			... on second glance, i already wrote 'also not implemented'. i'll still strike it out.
+		You're right. I'd already added a note at the top but i've also put a strikethrough effect on the rest of the entry. :p
 
 altar/slates:
     I think almost all of the text on this page can get nuked.  If that does
     happen, please make sure you update the "extra_recipe_mappings" at the top
     of that entry.  The number is which page it should go to when someone tries
     to find the recipe of that slate, and it starts counting from 0.
-		Done. I've reworked the note about Etherial slates into an earlier page.
+		Done. I've reworked the note about Etherial slates into an earlier page, and yes, i changed the recipe mappings.
 
 I only had time to get through the Demon Will and Blood Altars chapters.  I do
 remember wanting to note something else though...
@@ -48,6 +47,7 @@ remember wanting to note something else though...
 
 utility/getting_started:
     Sentient Sword should be Tier-0.  You do not need a Blood Altar to use it.
+		
 		I considered 'make the hellfire forge' to be the end of T0, same as the 
         Blood Altar, personally. I've slightly re-worded T1 accordingly - what 
         do you think?

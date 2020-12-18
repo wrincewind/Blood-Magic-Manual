@@ -1,11 +1,3 @@
-check every item with the guide to see if it has an entry (even if it's 'nyi')
-
-test_guide/en_us/entries/utility/bloodstone_bricks.json
-	link to Weak Blood Shards in the ARC - check this.
-
-test_guide/en_us/entries/altar/soul_network.json 
-	5k/25k/150k/1M or 5,000 / 25,000, 150,000, 1,000,000 ? 
-
 test_guide/en_us/entries/utility/alchemical_reaction_chamber.json
 Sulfer > Sulfur (fixed this in the description, but the recipe is also 
 spelled wrong. Is this typo in the book or the mod?)
@@ -13,49 +5,12 @@ spelled wrong. Is this typo in the book or the mod?)
 Way - why 5mb of lava? Given how easy the lava ritual is, this seems more like
 'something you have to figure out how to dump' than 'a useful source of lava'.
 
-test_guide/en_us/entries/utility/bloodstone_bricks.json
-mention the Weak Blood Shards used for them, and link to the relevant ARC Page?
-	look into anchors (and use them all over the place)
-
 ***************
 
-Dagger of Sacrifice
-	LP gains from different mobs
-	range?
-
-Not Categorized Yet:
-Pumping fluids in and out of the altar (nyi?)
-Alchemy Table - and uses, too. Sub-chapter?
-	grass block
-	plant oil
-	coal sand
-		explosive powder
-			ore tripling!?
-	basic cutting fluid
-		Ore dusts / ore doubling?
-	leather
-	bread
-	clay
-	string
-	flint (bugged)
-	gunpowder (NYI)
-
-
-general second passthrough for consistency, ensuring all pages are linked whenever they're mentioned, adding additional recipes and items to the pages to enable patchoulli's 'hold ctrl to view entry' functon to work, etc.
-
-
-
-NOT YET IMPLEMENTED (circle back later)
-
-Custom recipe handlers for the Altar, Arcane Ash, and the Hellfire Forge. (Ask Way very very nicely?)
-
-ON PATCHOULI'S END 
-oredict tags for e.g. colours of glass, types of stone, levels of sentient gem. Currently waiting for https://github.com/Vazkii/Patchouli/pull/335 to be approved.
-[n.b. most of these will be made redundant by custom recipe handlers, above]
-
+NOT YET IMPLEMENTED (or rather, partially implemented)
 Sigils:
-* magnetism - Sigil of Magnetism - Text.  NYI.
-* ice - Sigil of the Frozen Lake - Text.  NYI?
+* magnetism - Sigil of Magnetism
+* ice - Sigil of the Frozen Lake
 
 Awakened Activation Crystal
 Alchemical Reaction Chamber
@@ -76,3 +31,5 @@ item/fluid transfer system?
 Ritual for automatically breaking crystals
 	-> suggestion for net-positive will cycle
 [the ritual itself is implemented, but Way is planning on changing how Crystal Automation works, so, best wait)
+
+Pumping fluids in and out of the altar 
