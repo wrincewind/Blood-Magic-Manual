@@ -2,6 +2,7 @@
   "name": "Demon Will",
   "icon": "bloodmagic:basemonstersoul",
   "category": "demon_will",
+  "extra_recipe_mappings":[["bloodmagic:basemonstersoul", 0]],
   "pages": [
     {
       "type": "text",

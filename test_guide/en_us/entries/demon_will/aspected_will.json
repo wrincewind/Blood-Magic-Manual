@@ -26,7 +26,7 @@
     },
 	{
       "type": "text",
-      "text": "$(steadfast)$(li)Steadfast Will$(): Increases damage (but not as much as $raw()Raw$()) and grants Absorption after a kill. $(destructive)$(li)Destructive Will$(): Increases damage more than any other will type, but increases attack speed more slowly than any other type. Top Tier is still faster than an unempowered tool / equivalent iron tool, but slower than any other will type."
+      "text": "$(steadfast)$(li)Steadfast Will$(): Increases damage (but not as much as $(raw)Raw$()) and grants Absorption after a kill. $(destructive)$(li)Destructive Will$(): Increases damage more than any other will type, but increases attack speed more slowly than any other type. Top Tier is still faster than an unempowered tool / equivalent iron tool, but slower than any other will type."
     },
 	{
       "type": "text",

@@ -90,7 +90,7 @@
           ["G_____G", "_______", "_______", "___0___", "_______", "_______", "G_____G"],
           ["P_____P", "_______", "_______", "___A___", "_______", "_______", "P_____P"],
           ["P_____P", "_______", "__RRR__", "__R_R__", "__RRR__", "_______", "P_____P"],
-          ["_RRRRR_", "R_____R", "R_____R", "R_____R", "R_____R", "_______", "_RRRRR_"]
+          ["_RRRRR_", "R_____R", "R_____R", "R_____R", "R_____R", "R_____R", "_RRRRR_"]
         ],
         "mapping":{
           "A": "bloodmagic:altar",
@@ -104,7 +104,7 @@
     },
     {
       "type": "text",
-      "text": "To upgrade the Blood Altar to Tier 4, place 7 $(item) Blood Runes$() one block down and two blocks away from the previous set of runes along each edge. Then place four solid blocks in each corner, starting above the new ring of runes, and then cap each pillar with $(item)Bloodstone Bricks$() and/or $(item)Large Bloodstone Bricks$()."
+      "text": "To upgrade the Blood Altar to Tier 4, place 7 $(item) Blood Runes$() one block down and two blocks away from the previous set of runes along each edge. Then place four solid blocks in each corner, starting above the new ring of runes, and then cap each pillar with $(l:utility/bloodstone_bricks)Bloodstone Bricks$(/l) and/or $(l:utility/bloodstone_bricks)Large Bloodstone Bricks$(/l)."
     },
     {
       "type": "multiblock",
