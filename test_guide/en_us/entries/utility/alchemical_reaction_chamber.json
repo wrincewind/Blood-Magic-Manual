@@ -3,9 +3,13 @@
   "icon": "bloodmagic:alchemicalreactionchamber",
   "category": "utility",
   "pages": [
-    {
+     {
       "type": "text",
-      "text": "Wrince, here's a few more pages you can work on!"
+      "text": "The $(item)Alchemical Reaction Chamber$() isn't fully implemented yet, but among other things it can function as a furnace, offers a form of ore-tripling, and is currently the only way to get $(item)Weak Blood Shards$(), specifically from an $(l:altar/slates)Imbued Slate$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:arc"
     },
     {
       "type": "crafting_arc",
