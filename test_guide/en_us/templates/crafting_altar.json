@@ -21,6 +21,12 @@
     },
     {
       "type": "item",
+      "item": "bloodmagic:altar",
+      "x": 87,
+      "y": 46
+    },
+    {
+      "type": "item",
       "item": "#input",
       "x": 30,
       "y": 8

@@ -1,0 +1,39 @@
+general:
+    Most of the pages I added content to will need a formatting pass for things
+    like the text color highlights and possibly some links.
+
+demon_will/demon_will:
+    "In the lore of Blood Magic...inbues its will into the bodies of the dead."
+    What about living mobs, like Endermen and Creepers? Way gets authority, but
+    my interpretation was that it's the imbued will of a demon that causes mobs
+    to be hostile to a player.  "Neutral" mobs are those that are able to
+    resist the effects, but not completely.
+
+demon_will/soul_gem (and others):
+    Thanks to Data Packs and modpacks frequently changing recipes, we may want
+    to avoid mentioning the default ingredients in the text descriptions.  I
+    mean, I did put in the extra effort to make sure this guide will show any
+    altered recipes.
+
+altar/blood_altar:
+    Please mention that the first 1,000 LP you sacrifice will go to an internal
+    "extract" tank.  That has caused a lot of confusion in the past.  "Why is
+    my Blood Altar draining?!"
+    
+    The Altar Pillars do not have to be "solid" blocks.  I think they can be
+    basically anything.  The code says "not air."
+
+altar/redstone_automation:
+    I think this all is NYI.
+
+altar/slates:
+    I think almost all of the text on this page can get nuked.  If that does
+    happen, please make sure you update the "extra_recipe_mappings" at the top
+    of that entry.  The number is which page it should go to when someone tries
+    to find the recipe of that slate, and it starts counting from 0.
+
+I only had time to get through the Demon Will and Blood Altars chapters.  I do
+remember wanting to note something else though...
+
+utility/getting_started:
+    Sentient Sword should be Tier-0.  You do not need a Blood Altar to use it.
