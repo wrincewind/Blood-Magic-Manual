@@ -3,28 +3,24 @@
   "icon": "bloodmagic:blankslate",
   "category": "altar",
   "extra_recipe_mappings":[
-    ["bloodmagic:blankslate", 2],
-    ["bloodmagic:reinforcedslate", 2],
-    ["bloodmagic:infusedslate", 3],
-    ["bloodmagic:demonslate", 3]
+    ["bloodmagic:blankslate", 1],
+    ["bloodmagic:reinforcedslate", 1],
+    ["bloodmagic:infusedslate", 2],
+    ["bloodmagic:demonslate", 2]
   ],
   "pages": [
     {
       "type": "text",
-      "text": "The $(l:altar/blood_altar)Blood Altar$(/l)'s main use is the production of $(item)Slates$(). Each tier of slate requires the previous tier and a more powerful altar than the last. $(li)$(item)Blank Slates$() can be created in a Tier 1 altar from $(item)Stone$() and 1,000 LP. $(li)$(item)Reinforced Slates$() can be created in a Tier 2 altar from a $(item)Blank Slate$() and 2,000 LP." 
+      "text": "The $(l:altar/blood_altar)Blood Altar$(/l)'s main use is the production of $(item)Slates$(). Each tier of slate requires the previous tier and a more powerful altar than the last. $(br2)Note that $(item)Etherial Slates$() aren't currently implemented by default, but may be if you're playing in a modpack. Check JEI for details." 
     },
     {
-      "type": "text",
-      "text": "$(li)$(item)Imbued Slates$() can be created in a Tier 3 altar from a $(item)Reinforced Slate$() and 5,000 LP. $(li)$(item)Demonic Slates$() can be created in a Tier 4 altar from a $(item)Imbued Slate$() and 15,000 LP. $(li)$(item)Etherial Slates$() aren't currently implemented by default, but may be if you're playing in a modpack. Check JEI for details."
-    },
-	{
       "type": "2x_crafting_altar",
 	  "a.heading": "Blank Slate",
       "a.recipe": "bloodmagic:altar/slate",
 	  "b.heading": "Reinforced Slate",
       "b.recipe": "bloodmagic:altar/reinforcedslate"
     },
-	{
+    {
       "type": "2x_crafting_altar",
 	  "a.heading": "Imbued Slate",
       "a.recipe": "bloodmagic:altar/imbuedslate",
