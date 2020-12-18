@@ -82,7 +82,7 @@
       "type": "crafting",
       "heading": "Fuel Cell (Furnace)",
       "recipe": "bloodmagic:primitive_furnace_cell",
-      "text": "The ARC also functions as a Furnace, but the only fuel sources it accepts is the Primative Fuel Cell or $(l:utility/lava_crystal)Lava Crystal$(/l)."
+      "text": "The ARC also functions as a Furnace, but the only fuel sources it accepts is the $(item)Primitive Fuel Cell$() or $(l:utility/lava_crystal)Lava Crystal$(/l)."
     },
     {
       "type": "text",
