@@ -1,3 +1,24 @@
+check every item with the guide to see if it has an entry (even if it's 'nyi')
+
+test_guide/en_us/entries/utility/bloodstone_bricks.json
+	link to Weak Blood Shards in the ARC - check this.
+
+test_guide/en_us/entries/altar/soul_network.json 
+	5k/25k/150k/1M or 5,000 / 25,000, 150,000, 1,000,000 ? 
+
+test_guide/en_us/entries/utility/alchemical_reaction_chamber.json
+Sulfer > Sulfur (fixed this in the description, but the recipe is also 
+spelled wrong. Is this typo in the book or the mod?)
+
+Way - why 5mb of lava? Given how easy the lava ritual is, this seems more like
+'something you have to figure out how to dump' than 'a useful source of lava'.
+
+test_guide/en_us/entries/utility/bloodstone_bricks.json
+mention the Weak Blood Shards used for them, and link to the relevant ARC Page?
+	look into anchors (and use them all over the place)
+
+***************
+
 Dagger of Sacrifice
 	LP gains from different mobs
 	range?
