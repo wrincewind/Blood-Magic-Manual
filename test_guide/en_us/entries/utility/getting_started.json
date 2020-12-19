@@ -18,7 +18,7 @@
 	  "type": "spotlight",
       "item": "bloodmagic:sacrificialdagger",
       "title": "Tier One",
-      "text": "Once you have a source of $(l:demon_will/demon_will)Demon Will$() and a $(l:altar/blood_altar)Blood Altar$(/l), you can work on making the $(l:demon_will/sentient_sword)Sentient Sword$() for easier Demon Will gathering, and start collecting LP for the crafting of $(l:altar/slates)Slates$() and various Sigils. Your goal at this tier is to upgrade your $(l:demon_will/soul_gem)$(item)Tartaric Gems$() and your Blood Altar, the latter through the creation of Blank Runes."
+      "text": "Once you have a source of $(l:demon_will/demon_will)Demon Will$(), a $(l:demon_will/soul_forge)Hellfire Forge$(/l) and a $(l:altar/blood_altar)Blood Altar$(/l), you can work on making the $(l:demon_will/sentient_sword)Sentient Sword$() for easier Demon Will gathering, and start collecting LP for the crafting of $(l:altar/slates)Slates$() and various Sigils. Your goal at this tier is to upgrade your $(l:demon_will/soul_gem)$(item)Tartaric Gems$() and your Blood Altar, the latter through the creation of Blank Runes."
 	},
 	{
 	  "type": "spotlight",

@@ -2,6 +2,22 @@
   "name": "Demon Will Aspects",
   "icon": "bloodmagic:vengefulcrystal",
   "category": "demon_will",
+  "extra_recipe_mappings":[
+    ["bloodmagic:steadfastdemoncrystal", 2],
+    ["bloodmagic:corrosivedemoncrystal", 2],
+    ["bloodmagic:destructivedemoncrystal", 2],
+	["bloodmagic:rawdemoncrystal", 2],
+    ["bloodmagic:vengefuldemoncrystal", 2],
+	["bloodmagic:steadfastcrystal", 2],
+    ["bloodmagic:corrosivecrystal", 2],
+    ["bloodmagic:destructivecrystal", 2],
+	["bloodmagic:defaultcrystal", 2],
+    ["bloodmagic:vengefulcrystal", 2],
+	["bloodmagic:basemonstersoul_vengeful", 2],
+	["bloodmagic:basemonstersoul_corrosive", 2],
+	["bloodmagic:basemonstersoul_steadfast", 2],
+	["bloodmagic:basemonstersoul_destructive", 2]
+  ],
   "pages": [
     {
       "type": "text",

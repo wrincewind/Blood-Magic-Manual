@@ -2,6 +2,10 @@
   "name": "Activation Crystals",
   "icon": "bloodmagic:activationcrystalweak",
   "category": "rituals",
+  "extra_recipe_mappings":[
+    ["bloodmagic:activationcrystalweak", 1],
+	["bloodmagic:activationcrystalawakened", 3]
+	],
   "pages": [
     {
       "type": "text",

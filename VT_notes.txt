@@ -8,32 +8,46 @@ demon_will/demon_will:
     my interpretation was that it's the imbued will of a demon that causes mobs
     to be hostile to a player.  "Neutral" mobs are those that are able to
     resist the effects, but not completely.
+		That bit was all Way, actually! I didn't touch that bit of the original manual.
 
 demon_will/soul_gem (and others):
     Thanks to Data Packs and modpacks frequently changing recipes, we may want
     to avoid mentioning the default ingredients in the text descriptions.  I
     mean, I did put in the extra effort to make sure this guide will show any
     altered recipes.
+		I've had a bit of a look, but I want to keep the info for the Lesser Tartaric Gem, to point people towards the Blood Altar. Same for the Common Tartaric Gem - i do need to link the pages for the Blood Shard and Demon Will. At that point we're keeping the descriptions for more than we're ditching, so i'm kind of feeling like keeping them all would be best. I could remove them if we're sure hte 'shift-click ingredient to go to relevant page' is working for all of them; i'll check when I get home.
 
 altar/blood_altar:
     Please mention that the first 1,000 LP you sacrifice will go to an internal
     "extract" tank.  That has caused a lot of confusion in the past.  "Why is
     my Blood Altar draining?!"
-    
+		Done, though thanks to text overflow i've had to mention it under the crafting recipe for the knife. 
+	
     The Altar Pillars do not have to be "solid" blocks.  I think they can be
     basically anything.  The code says "not air."
+		added.
+	
+	
+
 
 altar/redstone_automation:
     I think this all is NYI.
+		You're right. I'd already added a note at the top but i've also put a strikethrough effect on the rest of the entry. :p
 
 altar/slates:
     I think almost all of the text on this page can get nuked.  If that does
     happen, please make sure you update the "extra_recipe_mappings" at the top
     of that entry.  The number is which page it should go to when someone tries
     to find the recipe of that slate, and it starts counting from 0.
+		Done. I've reworked the note about Etherial slates into an earlier page, and yes, i changed the recipe mappings.
 
 I only had time to get through the Demon Will and Blood Altars chapters.  I do
 remember wanting to note something else though...
+		Well, if you figure out what it is, let me know..!
 
 utility/getting_started:
     Sentient Sword should be Tier-0.  You do not need a Blood Altar to use it.
+		
+		I considered 'make the hellfire forge' to be the end of T0, same as the 
+        Blood Altar, personally. I've slightly re-worded T1 accordingly - what 
+        do you think?

@@ -2,6 +2,10 @@
   "name": "Sigil of the Green Grove",
   "icon": "bloodmagic:growthsigil",
   "category": "sigil",
+  "extra_recipe_mappings":[
+    ["bloodmagic:reagentgrowth", 3],
+	["bloodmagic:growthsigil", 3]
+	],
   "pages": [
     {
       "type": "text",

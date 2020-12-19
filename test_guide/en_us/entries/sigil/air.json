@@ -2,6 +2,10 @@
   "name": "Air Sigil",
   "icon": "bloodmagic:airsigil",
   "category": "sigil",
+  "extra_recipe_mappings":[
+    ["bloodmagic:reagentair", 1],
+	["bloodmagic:airsigil", 1]
+	],
   "pages": [
     {
       "type": "text",

@@ -2,6 +2,10 @@
   "name": "Water Sigil",
   "icon": "bloodmagic:watersigil",
   "category": "sigil",
+  "extra_recipe_mappings":[
+    ["bloodmagic:reagentwater", 2],
+	["bloodmagic:watersigil", 2]
+	],
   "pages": [
     {
       "type": "text",
